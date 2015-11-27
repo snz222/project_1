@@ -1,0 +1,311 @@
+C:\copy_of_PROJECT_1_SW2010 на 169.254.182.25\pcb\PMT_for_project1.drc:
+
+
+Design Clearances (in   mm):
+-------------------------------
+Board Edge Clearance:   Not Defined
+Silk Screen Clearance:  Not Defined
+Hole-Hole Clearance:    Not Defined
+
+
+Layer Clearances (in   mm):
+-------------------------------
+
+Layer Name          Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+Top                   0.300     0.300     0.300     0.300     0.300     0.300
+inTop                 0.300     0.300     0.300     0.300     0.300     0.300
+inBottom              0.300     0.300     0.300     0.300     0.300     0.300
+Bottom                0.300     0.300     0.300     0.300     0.300     0.300
+
+
+Net Class Clearances (in   mm):
+-------------------------------
+Net Class Name      Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Net Clearances (In   mm):
+-------------------------
+Net Name            Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+B2                    0.250     0.250     0.250     0.250     0.250     0.250
+GND                   0.250     0.250     0.250     0.250     0.250     0.250
+NET00066              0.250     0.250     0.250     0.250     0.250     0.250
+HV_CTRL               0.250     0.250     0.250     0.250     0.250     0.250
+Z+I                   0.250     0.250     0.250     0.250     0.250     0.250
+NET00096              0.250     0.250     0.250     0.250     0.250     0.250
+STEP_1                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_2                0.450     0.450     0.450     0.450     0.450     0.450
+NET00054              0.250     0.250     0.250     0.250     0.250     0.250
++3.3V                 0.250     0.250     0.250     0.250     0.250     0.250
+RETURN_HV             0.250     0.250     0.250     0.250     0.250     0.250
+STEP_10               0.450     0.450     0.450     0.450     0.450     0.450
+NET00008              0.250     0.250     0.250     0.250     0.250     0.250
+STEP_3                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_4                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_5                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_6                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_7                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_8                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_9                0.450     0.450     0.450     0.450     0.450     0.450
+NET00010              0.250     0.250     0.250     0.250     0.250     0.250
+HV_SENCE              0.450     0.450     0.450     0.450     0.450     0.450
+NET00005              0.250     0.250     0.250     0.250     0.250     0.250
+NET00007              0.250     0.250     0.250     0.250     0.250     0.250
+K1                    0.250     0.250     0.250     0.250     0.250     0.250
+K2                    0.250     0.250     0.250     0.250     0.250     0.250
+CT                    0.250     0.250     0.250     0.250     0.250     0.250
+E12                   0.250     0.250     0.250     0.250     0.250     0.250
+AGND                  0.250     0.250     0.250     0.250     0.250     0.250
+NET00009              0.250     0.250     0.250     0.250     0.250     0.250
+NET00013              0.250     0.250     0.250     0.250     0.250     0.250
+I_PMT                 0.250     0.250     0.250     0.250     0.250     0.250
+B1                    0.250     0.250     0.250     0.250     0.250     0.250
+NET00026              0.250     0.250     0.250     0.250     0.250     0.250
+NET00028              0.250     0.250     0.250     0.250     0.250     0.250
+NET00029              0.250     0.250     0.250     0.250     0.250     0.250
+NET00030              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_PWR          0.450     0.450     0.450     0.450     0.450     0.450
+NET00032              0.250     0.250     0.250     0.250     0.250     0.250
+NET00033              0.250     0.250     0.250     0.250     0.250     0.250
+NET00036              0.250     0.250     0.250     0.250     0.250     0.250
+NET00037              0.250     0.250     0.250     0.250     0.250     0.250
+NET00038              0.250     0.250     0.250     0.250     0.250     0.250
+NET00039              0.250     0.250     0.250     0.250     0.250     0.250
+NET00040              0.250     0.250     0.250     0.250     0.250     0.250
+NET00041              0.250     0.250     0.250     0.250     0.250     0.250
+NET00042              0.250     0.250     0.250     0.250     0.250     0.250
+NET00043              0.250     0.250     0.250     0.250     0.250     0.250
+NET00044              0.250     0.250     0.250     0.250     0.250     0.250
+NET00045              0.250     0.250     0.250     0.250     0.250     0.250
+NET00046              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_C            0.450     0.450     0.450     0.450     0.450     0.450
+IGNITION              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_E            0.250     0.250     0.250     0.250     0.250     0.250
+C                     0.250     0.250     0.250     0.250     0.250     0.250
+NET00012              0.250     0.250     0.250     0.250     0.250     0.250
+
+Net Class To Net Class Clearances (in   mm):
+--------------------------------------------
+Net Class Names     Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Area Checked:
+-------------
+
+DRC Extents:            Entire Workspace
+
+
+DRC Report Options:
+-------------------
+
+Net List Compare:       Off
+Clearance Violations:   On
+Text Violations:        Off
+Net List Violations:    Off
+Unrouted Nets:          Off
+Unconnected Pins:       Off
+Net Length Violations:  Off
+Silk Violations:        Off
+Copper Pour Violations: On
+Plane Violations:       On
+Component Violations:   Off
+Drill Violations:       On
+Test Point Violations:  Off
+
+DRC Errors:
+-----------
+
+
+CLEARANCE VIOLATIONS:
+
+Error 1 -- Clearance Violation between:
+   * Pad R2-2 at (142.550, 63.750) mm [Top layer]
+   * Line at (144.300, 62.850):(141.450, 62.850) mm [Top layer]
+   * Calculated Clearance: 0.323mm.
+   * Rule: Net{STEP_2}.Clearance=.45
+Error 2 -- Clearance Violation between:
+   * Line at (109.100, 72.600):( 95.550, 72.600) mm [Top layer]
+   * Pad R33-2 at (107.150, 73.550) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{IGNITION_PWR}.Clearance=.45
+Error 3 -- Clearance Violation between:
+   * Line at (138.250, 77.350):(139.050, 77.100) mm [Top layer]
+   * Line at (139.100, 78.000):(124.900, 78.000) mm [Top layer]
+   * Calculated Clearance: 0.396mm.
+   * Rule: Net{STEP_6}.Clearance=.45
+Error 4 -- Clearance Violation between:
+   * Line at (132.200, 77.350):(138.250, 77.350) mm [Top layer]
+   * Line at (139.100, 78.000):(124.900, 78.000) mm [Top layer]
+   * Calculated Clearance: 0.396mm.
+   * Rule: Net{STEP_6}.Clearance=.45
+Error 5 -- Clearance Violation between:
+   * Line at (132.200, 77.350):(131.400, 76.800) mm [Top layer]
+   * Line at (139.100, 78.000):(124.900, 78.000) mm [Top layer]
+   * Calculated Clearance: 0.396mm.
+   * Rule: Net{STEP_6}.Clearance=.45
+Error 6 -- Clearance Violation between:
+   * Line at (133.000, 76.200):(135.850, 76.200) mm [Top layer]
+   * Pad C8-2 at (135.155, 74.900) mm [Top layer]
+   * Calculated Clearance: 0.385mm.
+   * Rule: Net{STEP_7}.Clearance=.45
+Error 7 -- Clearance Violation between:
+   * Pad VD1-4 at ( 97.600, 65.000) mm [Top layer]
+   * Pad VD1-5 at ( 96.650, 65.000) mm [Top layer]
+   * Calculated Clearance: 0.400mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 8 -- Clearance Violation between:
+   * Line at (100.000, 62.600):( 99.650, 61.800) mm [Top layer]
+   * Pad C22-2 at (100.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.351mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 9 -- Clearance Violation between:
+   * Line at (100.000, 62.600):( 99.650, 61.800) mm [Top layer]
+   * Pad C22-1 at ( 98.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.375mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 10 -- Clearance Violation between:
+   * Pad VD2-1 at (100.000, 62.600) mm [Top layer]
+   * Pad VD2-2 at (100.950, 62.600) mm [Top layer]
+   * Calculated Clearance: 0.400mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 11 -- Clearance Violation between:
+   * Line at ( 99.650, 61.800):( 99.650, 59.900) mm [Top layer]
+   * Pad C22-2 at (100.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 12 -- Clearance Violation between:
+   * Line at ( 99.650, 61.800):( 99.650, 59.900) mm [Top layer]
+   * Pad C22-1 at ( 98.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 13 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C23-2 at (103.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 14 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C23-1 at (101.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 15 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C26-2 at (112.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 16 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C26-1 at (110.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 17 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C28-2 at (118.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 18 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C28-1 at (116.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 19 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C30-2 at (124.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 20 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C30-1 at (122.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 21 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C27-2 at (115.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 22 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C27-1 at (113.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 23 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C25-2 at (109.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 24 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C25-1 at (107.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 25 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C22-2 at (100.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 26 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C29-2 at (121.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 27 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C29-1 at (119.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 28 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C24-2 at (106.600, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 29 -- Clearance Violation between:
+   * Line at ( 99.650, 59.900):(131.100, 59.900) mm [Top layer]
+   * Pad C24-1 at (104.700, 61.100) mm [Top layer]
+   * Calculated Clearance: 0.423mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+
+0 warning(s) detected.
+29 error(s) detected.
+
+COPPER POUR VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+PLANE VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+DRILL VIOLATIONS:
+
+Warning: Hole to hole clearance violation tests were not performed because
+         of missing HoleToHoleClearance rule.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+DRC Summary:
+------------
+
+Clearance:
+	Errors:         29
+	Warnings:       0
+	Ignored Errors: 0
+Copper Pour:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Plane:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Drilling:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0

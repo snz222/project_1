@@ -1,0 +1,198 @@
+P-CAD Design Rule Check Report
+
+======================================================================
+
+I:\copy_of_PROJECT_1_SW2010 на 169.254.182.25\pcb\2L_PMT_2_for_project1.drc:
+
+
+Design Clearances (in   mm):
+-------------------------------
+Board Edge Clearance:   Not Defined
+Silk Screen Clearance:  Not Defined
+Hole-Hole Clearance:    Not Defined
+
+
+Layer Clearances (in   mm):
+-------------------------------
+
+Layer Name          Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+Top                   0.300     0.300     0.300     0.300     0.300     0.300
+inTop                 0.300     0.300     0.300     0.300     0.300     0.300
+inBottom              0.300     0.300     0.300     0.300     0.300     0.300
+Bottom                0.300     0.300     0.300     0.300     0.300     0.300
+
+
+Net Class Clearances (in   mm):
+-------------------------------
+Net Class Name      Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Net Clearances (In   mm):
+-------------------------
+Net Name            Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+B2                    0.250     0.250     0.250     0.250     0.250     0.250
+GND                   0.250     0.250     0.250     0.250     0.250     0.250
+NET00066              0.250     0.250     0.250     0.250     0.250     0.250
+HV_CTRL               0.250     0.250     0.250     0.250     0.250     0.250
+Z+I                   0.250     0.250     0.250     0.250     0.250     0.250
+NET00096              0.250     0.250     0.250     0.250     0.250     0.250
+STEP_1                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_2                0.450     0.450     0.450     0.450     0.450     0.450
+STEP-10               0.250     0.250     0.250     0.250     0.250     0.250
++3.3V                 0.250     0.250     0.250     0.250     0.250     0.250
+RETURN_HV             0.250     0.250     0.250     0.250     0.250     0.250
+STEP_10               0.450     0.450     0.450     0.450     0.450     0.450
+NET00008              0.250     0.250     0.250     0.250     0.250     0.250
+STEP_3                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_4                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_5                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_6                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_7                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_8                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_9                0.450     0.450     0.450     0.450     0.450     0.450
+NET00010              0.250     0.250     0.250     0.250     0.250     0.250
+HV_SENCE              0.450     0.450     0.450     0.450     0.450     0.450
+-OP                   0.250     0.250     0.250     0.250     0.250     0.250
+AGC_SET               0.250     0.250     0.250     0.250     0.250     0.250
+K1                    0.250     0.250     0.250     0.250     0.250     0.250
+K2                    0.250     0.250     0.250     0.250     0.250     0.250
+CT                    0.250     0.250     0.250     0.250     0.250     0.250
+
+----------------------------------------------------------------------
+
+28-Jan-14  21:42                                            Page    1
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+E12                   0.250     0.250     0.250     0.250     0.250     0.250
+AGND                  0.250     0.250     0.250     0.250     0.250     0.250
+NET00009              0.250     0.250     0.250     0.250     0.250     0.250
+-AGC                  0.250     0.250     0.250     0.250     0.250     0.250
+I_PMT                 0.250     0.250     0.250     0.250     0.250     0.250
+B1                    0.250     0.250     0.250     0.250     0.250     0.250
+NET00026              0.250     0.250     0.250     0.250     0.250     0.250
+NET00028              0.250     0.250     0.250     0.250     0.250     0.250
+STEP-2                0.250     0.250     0.250     0.250     0.250     0.250
+NET00030              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_PWR          0.450     0.450     0.450     0.450     0.450     0.450
+NET00032              0.250     0.250     0.250     0.250     0.250     0.250
+STEP-4                0.250     0.250     0.250     0.250     0.250     0.250
+NET00036              0.250     0.250     0.250     0.250     0.250     0.250
+STEP-5                0.250     0.250     0.250     0.250     0.250     0.250
+NET00038              0.250     0.250     0.250     0.250     0.250     0.250
+STEP-6                0.250     0.250     0.250     0.250     0.250     0.250
+NET00040              0.250     0.250     0.250     0.250     0.250     0.250
+STEP-7                0.250     0.250     0.250     0.250     0.250     0.250
+NET00042              0.250     0.250     0.250     0.250     0.250     0.250
+STEP-8                0.250     0.250     0.250     0.250     0.250     0.250
+NET00044              0.250     0.250     0.250     0.250     0.250     0.250
+STEP-9                0.250     0.250     0.250     0.250     0.250     0.250
+NET00046              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_C            0.450     0.450     0.450     0.450     0.450     0.450
+IGNITION              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_E            0.250     0.250     0.250     0.250     0.250     0.250
+C                     0.250     0.250     0.250     0.250     0.250     0.250
+STEP-3                0.250     0.250     0.250     0.250     0.250     0.250
+
+Net Class To Net Class Clearances (in   mm):
+--------------------------------------------
+Net Class Names     Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Area Checked:
+-------------
+
+DRC Extents:            Entire Workspace
+
+
+DRC Report Options:
+-------------------
+
+Net List Compare:       Off
+Clearance Violations:   On
+Text Violations:        Off
+Net List Violations:    Off
+Unrouted Nets:          Off
+Unconnected Pins:       Off
+Net Length Violations:  Off
+Silk Violations:        Off
+Copper Pour Violations: Off
+Plane Violations:       Off
+Component Violations:   Off
+Drill Violations:       Off
+
+----------------------------------------------------------------------
+
+28-Jan-14  21:42                                            Page    2
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Test Point Violations:  Off
+
+DRC Errors:
+-----------
+
+
+CLEARANCE VIOLATIONS:
+
+Error 1 -- Clearance Violation between:
+   * Pad C4-1 at ( 27.400, 15.650) mm [Top layer]
+   * Pad  at ( 29.000, 18.000) mm [Top layer]
+   * Calculated Clearance: 0.442mm.
+   * Rule: Net{STEP_3}.Clearance=.45
+Error 2 -- Clearance Violation between:
+   * Pad VD1-4 at ( 66.150, 20.050) mm [Top layer]
+   * Pad VD1-5 at ( 67.100, 20.050) mm [Top layer]
+   * Calculated Clearance: 0.400mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 3 -- Clearance Violation between:
+   * Pad VD2-1 at ( 63.750, 20.650) mm [Top layer]
+   * Pad VD2-2 at ( 62.800, 20.650) mm [Top layer]
+   * Calculated Clearance: 0.400mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+
+0 warning(s) detected.
+3 error(s) detected.
+
+DRC Summary:
+------------
+
+Clearance:
+	Errors:         3
+	Warnings:       0
+	Ignored Errors: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+28-Jan-14  21:42                                            Page    3
+

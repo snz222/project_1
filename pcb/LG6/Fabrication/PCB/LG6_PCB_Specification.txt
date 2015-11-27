@@ -1,0 +1,11 @@
+LG6 Printed Circuit Board
+
+Board Size: Diameter 30 mm
+Number of Layers: 2
+Board Thickness: 1.5 mm
+Copper Thickness: 35 um
+Dielectric Material Type: FR4 S1141
+Solder Mask: On both sides, Dark Green
+Overlay: On TOP only, Wite
+Finish plating: HASL
+Board edge cuting method: Milling

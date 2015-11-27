@@ -1,0 +1,330 @@
+P-CAD Design Rule Check Report
+
+======================================================================
+
+I:\copy_of_PROJECT_1_SW2010 на 169.254.182.25\pcb\2L_PMT_1_for_project1.drc:
+
+
+Design Clearances (in   mm):
+-------------------------------
+Board Edge Clearance:   Not Defined
+Silk Screen Clearance:  Not Defined
+Hole-Hole Clearance:    Not Defined
+
+
+Layer Clearances (in   mm):
+-------------------------------
+
+Layer Name          Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+Top                   0.300     0.300     0.300     0.300     0.300     0.300
+inTop                 0.300     0.300     0.300     0.300     0.300     0.300
+inBottom              0.300     0.300     0.300     0.300     0.300     0.300
+Bottom                0.300     0.300     0.300     0.300     0.300     0.300
+
+
+Net Class Clearances (in   mm):
+-------------------------------
+Net Class Name      Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Net Clearances (In   mm):
+-------------------------
+Net Name            Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+B2                    0.250     0.250     0.250     0.250     0.250     0.250
+GND                   0.250     0.250     0.250     0.250     0.250     0.250
+NET00066              0.250     0.250     0.250     0.250     0.250     0.250
+HV_CTRL               0.250     0.250     0.250     0.250     0.250     0.250
+Z+I                   0.250     0.250     0.250     0.250     0.250     0.250
+NET00096              0.250     0.250     0.250     0.250     0.250     0.250
+STEP_1                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_2                0.450     0.450     0.450     0.450     0.450     0.450
+NET00054              0.250     0.250     0.250     0.250     0.250     0.250
++3.3V                 0.250     0.250     0.250     0.250     0.250     0.250
+RETURN_HV             0.250     0.250     0.250     0.250     0.250     0.250
+STEP_10               0.450     0.450     0.450     0.450     0.450     0.450
+NET00008              0.250     0.250     0.250     0.250     0.250     0.250
+STEP_3                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_4                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_5                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_6                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_7                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_8                0.450     0.450     0.450     0.450     0.450     0.450
+STEP_9                0.450     0.450     0.450     0.450     0.450     0.450
+NET00010              0.250     0.250     0.250     0.250     0.250     0.250
+HV_SENCE              0.450     0.450     0.450     0.450     0.450     0.450
+-OP                   0.250     0.250     0.250     0.250     0.250     0.250
+AGC_SET               0.250     0.250     0.250     0.250     0.250     0.250
+K1                    0.250     0.250     0.250     0.250     0.250     0.250
+K2                    0.250     0.250     0.250     0.250     0.250     0.250
+CT                    0.250     0.250     0.250     0.250     0.250     0.250
+
+----------------------------------------------------------------------
+
+28-Jan-14  22:00                                            Page    1
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+E12                   0.250     0.250     0.250     0.250     0.250     0.250
+AGND                  0.250     0.250     0.250     0.250     0.250     0.250
+NET00009              0.250     0.250     0.250     0.250     0.250     0.250
+-AGC                  0.250     0.250     0.250     0.250     0.250     0.250
+I_PMT                 0.250     0.250     0.250     0.250     0.250     0.250
+B1                    0.250     0.250     0.250     0.250     0.250     0.250
+NET00026              0.250     0.250     0.250     0.250     0.250     0.250
+NET00028              0.250     0.250     0.250     0.250     0.250     0.250
+NET00029              0.250     0.250     0.250     0.250     0.250     0.250
+NET00030              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_PWR          0.450     0.450     0.450     0.450     0.450     0.450
+NET00032              0.250     0.250     0.250     0.250     0.250     0.250
+NET00033              0.250     0.250     0.250     0.250     0.250     0.250
+NET00036              0.250     0.250     0.250     0.250     0.250     0.250
+NET00037              0.250     0.250     0.250     0.250     0.250     0.250
+NET00038              0.250     0.250     0.250     0.250     0.250     0.250
+NET00039              0.250     0.250     0.250     0.250     0.250     0.250
+NET00040              0.250     0.250     0.250     0.250     0.250     0.250
+NET00041              0.250     0.250     0.250     0.250     0.250     0.250
+NET00042              0.250     0.250     0.250     0.250     0.250     0.250
+NET00043              0.250     0.250     0.250     0.250     0.250     0.250
+NET00044              0.250     0.250     0.250     0.250     0.250     0.250
+NET00045              0.250     0.250     0.250     0.250     0.250     0.250
+NET00046              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_C            0.450     0.450     0.450     0.450     0.450     0.450
+IGNITION              0.250     0.250     0.250     0.250     0.250     0.250
+IGNITION_E            0.250     0.250     0.250     0.250     0.250     0.250
+C                     0.250     0.250     0.250     0.250     0.250     0.250
+NET00012              0.250     0.250     0.250     0.250     0.250     0.250
+
+Net Class To Net Class Clearances (in   mm):
+--------------------------------------------
+Net Class Names     Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Area Checked:
+-------------
+
+DRC Extents:            Entire Workspace
+
+
+DRC Report Options:
+-------------------
+
+Net List Compare:       Off
+Clearance Violations:   On
+Text Violations:        Off
+Net List Violations:    Off
+Unrouted Nets:          Off
+Unconnected Pins:       Off
+Net Length Violations:  Off
+Silk Violations:        Off
+Copper Pour Violations: Off
+Plane Violations:       Off
+Component Violations:   Off
+Drill Violations:       Off
+
+----------------------------------------------------------------------
+
+28-Jan-14  22:00                                            Page    2
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Test Point Violations:  Off
+
+DRC Errors:
+-----------
+
+
+CLEARANCE VIOLATIONS:
+
+Error 1 -- Clearance Violation between:
+   * Pad C1-2 at (140.300, 62.650) mm [Top layer]
+   * Line at (137.350, 61.700):(140.300, 61.700) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{STEP_1}.Clearance=.45
+Error 2 -- Clearance Violation between:
+   * Pad C1-2 at (140.300, 62.650) mm [Top layer]
+   * Line at (140.300, 61.700):(140.300, 60.750) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{STEP_1}.Clearance=.45
+Error 3 -- Clearance Violation between:
+   * Pad R1-2 at (138.400, 62.650) mm [Top layer]
+   * Line at (137.350, 61.700):(140.300, 61.700) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{STEP_1}.Clearance=.45
+Error 4 -- Clearance Violation between:
+   * Via at ( 99.700, 62.600) mm [Bottom layer]
+   * Line at ( 96.000, 63.600):(102.750, 63.600) mm [Bottom layer]
+   * Calculated Clearance: 0.410mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 5 -- Clearance Violation between:
+   * Pad R30-1 at (101.300, 62.550) mm [Bottom layer]
+   * Line at ( 96.000, 63.600):(102.750, 63.600) mm [Bottom layer]
+   * Calculated Clearance: 0.410mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 6 -- Clearance Violation between:
+   * Line at (113.650, 72.600):(109.200, 72.600) mm [Top layer]
+   * Pad R33-2 at (112.150, 73.550) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{IGNITION_PWR}.Clearance=.45
+Error 7 -- Clearance Violation between:
+   * Line at (138.350, 77.300):(139.050, 77.100) mm [Top layer]
+   * Line at (139.100, 78.000):(127.450, 78.000) mm [Top layer]
+   * Calculated Clearance: 0.446mm.
+   * Rule: Net{STEP_6}.Clearance=.45
+Error 8 -- Clearance Violation between:
+   * Line at (132.300, 77.300):(138.350, 77.300) mm [Top layer]
+   * Line at (139.100, 78.000):(127.450, 78.000) mm [Top layer]
+   * Calculated Clearance: 0.446mm.
+   * Rule: Net{STEP_6}.Clearance=.45
+Error 9 -- Clearance Violation between:
+   * Line at (132.300, 77.300):(131.550, 77.300) mm [Top layer]
+   * Line at (139.100, 78.000):(127.450, 78.000) mm [Top layer]
+   * Calculated Clearance: 0.446mm.
+   * Rule: Net{STEP_6}.Clearance=.45
+Error 10 -- Clearance Violation between:
+   * Line at (131.550, 77.300):(130.750, 76.600) mm [Top layer]
+   * Line at (139.100, 78.000):(127.450, 78.000) mm [Top layer]
+   * Calculated Clearance: 0.446mm.
+
+----------------------------------------------------------------------
+
+28-Jan-14  22:00                                            Page    3
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Rule: Net{STEP_6}.Clearance=.45
+Error 11 -- Clearance Violation between:
+   * Pad VD2-1 at (105.000, 62.600) mm [Top layer]
+   * Line at (105.800, 63.250):(105.800, 62.600) mm [Top layer]
+   * Calculated Clearance: 0.398mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 12 -- Clearance Violation between:
+   * Pad VD2-1 at (105.000, 62.600) mm [Top layer]
+   * Line at (105.800, 61.100):(105.800, 62.600) mm [Top layer]
+   * Calculated Clearance: 0.398mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 13 -- Clearance Violation between:
+   * Pad VD2-1 at (105.000, 62.600) mm [Top layer]
+   * Line at (105.800, 63.250):(105.100, 63.950) mm [Top layer]
+   * Calculated Clearance: 0.421mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 14 -- Clearance Violation between:
+   * Pad VD2-1 at (105.000, 62.600) mm [Top layer]
+   * Pad VD2-2 at (105.950, 62.600) mm [Top layer]
+   * Calculated Clearance: 0.400mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 15 -- Clearance Violation between:
+   * Pad VD1-4 at (102.600, 65.000) mm [Top layer]
+   * Pad VD1-5 at (101.650, 65.000) mm [Top layer]
+   * Calculated Clearance: 0.400mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 16 -- Clearance Violation between:
+   * Line at (107.100, 60.900):(135.600, 60.900) mm [Bottom layer]
+   * Line at (109.500, 61.550):(107.650, 62.500) mm [Bottom layer]
+   * Calculated Clearance: 0.396mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 17 -- Clearance Violation between:
+   * Line at (107.100, 60.900):(135.600, 60.900) mm [Bottom layer]
+   * Line at (134.750, 61.550):(135.700, 62.100) mm [Bottom layer]
+   * Calculated Clearance: 0.396mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 18 -- Clearance Violation between:
+   * Line at (107.100, 60.900):(135.600, 60.900) mm [Bottom layer]
+   * Line at (134.750, 61.550):(109.500, 61.550) mm [Bottom layer]
+   * Calculated Clearance: 0.396mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+Error 19 -- Clearance Violation between:
+   * Pad R1-1 at (138.400, 60.750) mm [Top layer]
+   * Line at (137.350, 61.700):(140.300, 61.700) mm [Top layer]
+   * Calculated Clearance: 0.373mm.
+   * Rule: Net{HV_SENCE}.Clearance=.45
+
+0 warning(s) detected.
+19 error(s) detected.
+
+DRC Summary:
+------------
+
+Clearance:
+	Errors:         19
+	Warnings:       0
+	Ignored Errors: 0
+
+----------------------------------------------------------------------
+
+28-Jan-14  22:00                                            Page    4
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+28-Jan-14  22:00                                            Page    5
+

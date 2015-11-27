@@ -1,0 +1,264 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: E:\copy_of_PROJECT_1_SW2010 на 169.254.182.25\pcb\peripheral.net
+Error: line 2013
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2019
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2025
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2204
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2210
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2216
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2222
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2235
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2270
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2276
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2282
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2300
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2306
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2317
+   * Component CONNECTOR_6 not loaded.  No pattern is attached.
+Error: line 2328
+   * Component CONNECTOR_6 not loaded.  No pattern is attached.
+Error: line 2334
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2340
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2361
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2377
+   * Component CONNECTOR_4 not loaded.  No pattern is attached.
+Error: line 2383
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2389
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2395
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2399
+   * Component DIOD-TYPE not loaded.  No pattern is attached.
+Error: line 2403
+   * Component DIOD-TYPE not loaded.  No pattern is attached.
+Error: line 2407
+   * Component DIOD-TYPE not loaded.  No pattern is attached.
+Error: line 2411
+   * Component DIOD-TYPE not loaded.  No pattern is attached.
+Error: line 2417
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2436
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2460
+
+----------------------------------------------------------------------
+
+24-Feb-15  16:58                                            Page    1
+
+P-CAD Net List Load Errors
+
+======================================================================
+
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2476
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2482
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2488
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2494
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2500
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2516
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2522
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2528
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2534
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2557
+   * Component C0805_MINI not loaded.  Component is not in library.
+Error: line 2563
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2569
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2575
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: line 2581
+   * Component R0805_MINI not loaded.  Component is not in library.
+Error: Net NET00031: Refdes R23 of R23-2 not found.
+Error: Net NET00032: Refdes R24 of R24-2 not found.
+Error: Net NET00079: Refdes R30 of R30-2 not found.
+Error: Net NET00079: Refdes X7 of X7-2 not found.
+Error: Net NET00033: Refdes R25 of R25-2 not found.
+Error: Net DRDY_AD7705: Refdes X5 of X5-4 not found.
+Error: Net DRDY_AD7705: Refdes R7 of R7-1 not found.
+Error: Net CS_AD7705: Refdes X5 of X5-2 not found.
+Error: Net SDA: Refdes R28 of R28-1 not found.
+Error: Net SDA: Refdes R37 of R37-1 not found.
+Error: Net SCL: Refdes R27 of R27-1 not found.
+Error: Net SCL: Refdes R36 of R36-1 not found.
+Error: Net NET00043: Refdes R30 of R30-1 not found.
+Error: Net NET00043: Refdes C1 of C1-1 not found.
+Error: Net RESET: Refdes X5 of X5-1 not found.
+Error: Net NET00045: Refdes R5 of R5-1 not found.
+Error: Net NET00047: Refdes R1 of R1-2 not found.
+Error: Net NET00048: Refdes R2 of R2-2 not found.
+Error: Net NET00049: Refdes R3 of R3-2 not found.
+Error: Net NET00050: Refdes R4 of R4-2 not found.
+Error: Net GND: Refdes R10 of R10-2 not found.
+Error: Net GND: Refdes C8 of C8-2 not found.
+Error: Net GND: Refdes C6 of C6-2 not found.
+Error: Net GND: Refdes C4 of C4-2 not found.
+Error: Net GND: Refdes R9 of R9-2 not found.
+Error: Net GND: Refdes C3 of C3-2 not found.
+Error: Net GND: Refdes R4 of R4-1 not found.
+Error: Net GND: Refdes R3 of R3-1 not found.
+
+----------------------------------------------------------------------
+
+24-Feb-15  16:58                                            Page    2
+
+P-CAD Net List Load Errors
+
+======================================================================
+
+Error: Net GND: Refdes R2 of R2-1 not found.
+Error: Net GND: Refdes R1 of R1-1 not found.
+Error: Net GND: Refdes R6 of R6-1 not found.
+Error: Net GND: Refdes C1 of C1-2 not found.
+Error: Net GND: Refdes R35 of R35-1 not found.
+Error: Net GND: Refdes C2 of C2-1 not found.
+Error: Net GND: Refdes C7 of C7-2 not found.
+Error: Net GND: Refdes C5 of C5-2 not found.
+Error: Net GND: Refdes X7 of X7-3 not found.
+Error: Net GND: Refdes X8 of X8-1 not found.
+Error: Net NET00080: Refdes X7 of X7-1 not found.
+Error: Net +3.3: Refdes R27 of R27-2 not found.
+Error: Net +3.3: Refdes R23 of R23-1 not found.
+Error: Net +3.3: Refdes C8 of C8-1 not found.
+Error: Net +3.3: Refdes R28 of R28-2 not found.
+Error: Net +3.3: Refdes R36 of R36-2 not found.
+Error: Net +3.3: Refdes R37 of R37-2 not found.
+Error: Net +3.3: Refdes R38 of R38-2 not found.
+Error: Net +3.3: Refdes R25 of R25-1 not found.
+Error: Net +3.3: Refdes R24 of R24-1 not found.
+Error: Net +3.3: Refdes R26 of R26-2 not found.
+Error: Net +3.3: Refdes C7 of C7-1 not found.
+Error: Net +3.3: Refdes R39 of R39-2 not found.
+Error: Net +3.3: Refdes X7 of X7-4 not found.
+Error: Net NET00067: Refdes X8 of X8-3 not found.
+Error: Net NET00068: Refdes X8 of X8-2 not found.
+Error: Net +12V: Refdes C4 of C4-1 not found.
+Error: Net +12V: Refdes C3 of C3-1 not found.
+Error: Net NET00070: Refdes X8 of X8-4 not found.
+Error: Net PMT_V: Refdes R29 of R29-1 not found.
+Error: Net PMT_V: Refdes R26 of R26-1 not found.
+Error: Net NET00074: Refdes R29 of R29-2 not found.
+Error: Net NET00074: Refdes X7 of X7-6 not found.
+Error: Net +5V: Refdes C6 of C6-1 not found.
+Error: Net +5V: Refdes C5 of C5-1 not found.
+Error: Net IGNITION: Refdes X7 of X7-5 not found.
+Error: Net NET00081: Refdes R5 of R5-2 not found.
+Error: Net NET00081: Refdes R6 of R6-2 not found.
+Error: Net NET00083: Refdes R31 of R31-1 not found.
+Error: Net NET00084: Refdes R32 of R32-1 not found.
+Error: Net NET00085: Refdes R33 of R33-1 not found.
+Error: Net NET00086: Refdes R34 of R34-1 not found.
+Error: Net NET00087: Refdes R31 of R31-2 not found.
+Error: Net NET00088: Refdes R32 of R32-2 not found.
+Error: Net NET00089: Refdes R33 of R33-2 not found.
+Error: Net NET00090: Refdes R34 of R34-2 not found.
+Error: Net NET00091: Refdes VD4 of VD4-2 not found.
+Error: Net NET00092: Refdes VD3 of VD3-2 not found.
+Error: Net NET00093: Refdes VD2 of VD2-2 not found.
+Error: Net NET00094: Refdes VD1 of VD1-2 not found.
+Error: Net NET00095: Refdes R35 of R35-2 not found.
+Error: Net NET00105: Refdes C2 of C2-2 not found.
+Error: Net _DRDY: Refdes R9 of R9-1 not found.
+Error: Net _DRDY: Refdes R7 of R7-2 not found.
+Error: Net DOUT_AD7705: Refdes R8 of R8-1 not found.
+Error: Net DOUT_AD7705: Refdes X5 of X5-5 not found.
+Error: Net NET00001: Refdes VD2 of VD2-1 not found.
+
+----------------------------------------------------------------------
+
+24-Feb-15  16:58                                            Page    3
+
+P-CAD Net List Load Errors
+
+======================================================================
+
+Error: Net NET00001: Refdes VD1 of VD1-1 not found.
+Error: Net NET00001: Refdes VD3 of VD3-1 not found.
+Error: Net NET00001: Refdes VD4 of VD4-1 not found.
+Error: Net MISO: Refdes R10 of R10-1 not found.
+Error: Net MISO: Refdes R8 of R8-2 not found.
+Error: Net NET00002: Refdes C9 of C9-1 not found.
+Error: Net NET00003: Refdes C9 of C9-2 not found.
+Error: Net NET00004: Refdes R38 of R38-1 not found.
+Error: Net NET00005: Refdes R39 of R39-1 not found.
+Error: Net MOSI: Refdes X5 of X5-6 not found.
+Error: Net CLK: Refdes X5 of X5-3 not found.
+
+Net List Errors:   139
+Net List Warnings: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+24-Feb-15  16:58                                            Page    4
+
