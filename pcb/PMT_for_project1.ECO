@@ -1,0 +1,29 @@
+; P-CAD 2004 PCB Version 18.00.2727 [C:\copy_of_PROJECT_1_SW2010 íà 169.254.182.25\pcb\PMT_for_project1.pcb]--Wed Sep 12 19:59:53 2012
+; --------
+; C on 3.3v_analog
+CompAdd "C0805_MINI" "C37" "0.22"
+NetNodeAdd "+3.3V_ANALOG" "C37-2"
+NetNodeAdd "GND" "C37-1"
+; P-CAD 2004 PCB Version 18.00.2727 [C:\copy_of_PROJECT_1_SW2010 íà 169.254.182.25\pcb\PMT_for_project1.pcb]--Thu Sep 13 19:56:30 2012
+; --------
+; C on 3.3v
+CompAdd "C0805_MINI" "C38" "0.22"
+NetNodeAdd "GND" "C38-2"
+NetNodeAdd "+3.3V" "C38-1"
+; P-CAD 2004 PCB Version 18.00.2727 [Z:\copy_of_PROJECT_1_SW2010 íà 169.254.182.25\pcb\PMT_for_project1.pcb]--Mon Nov 11 20:31:48 2013
+NetNodeDelete "+3.3V" "X1-4"
+NetSplit "Z+I" "NET00000" "X1-2" 
+NetNodeDelete "NET00000" "X1-2"
+NetDelete "NET00000"
+NetNodeAdd "Z+I" "X1-4"
+NetNodeAdd "+3.3V" "X1-2"
+NetRename "NET00005" "-OP"
+NetRename "NET00013" "-AGC"
+NetRename "NET00007" "AGC_SET"
+; P-CAD 2004 PCB Version 18.00.2727 [Z:\copy_of_PROJECT_1_SW2010 íà 169.254.182.25\pcb\PMT_for_project1.pcb]--Thu Nov 14 17:15:40 2013
+NetNodeDelete "B1" "R22-2"
+NetNodeDelete "CT" "R22-1"
+CompDelete "R22"
+CompAdd "R0805_MINI" "R22" "22k"
+NetNodeAdd "B1" "R22-1"
+NetNodeAdd "+3.3V" "R22-2"

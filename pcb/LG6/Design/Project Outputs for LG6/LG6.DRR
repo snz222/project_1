@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LG6.PcbDoc   09.08.2013  14:46:35
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LG6.TXT
+EIA File   : LG6.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23.62mil (0.59995mm)     Round          9                0.90 Inch (22.83 mm)
+T2        31.5mil (0.8001mm)       Round          3                0.34 Inch (8.67 mm)
+T3        39.37mil (1mm)           Round          4                1.39 Inch (35.34 mm)
+T4        165.35mil (4.19989mm)    Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            17               2.63 Inch (66.84 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

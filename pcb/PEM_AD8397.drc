@@ -1,0 +1,96 @@
+I:\copy_of_PROJECT_1_SW2010 на 169.254.182.25\pcb\PEM_AD8397.drc:
+
+
+Design Clearances (in   mm):
+-------------------------------
+Silk Screen Clearance:  12.0mil
+Hole-Hole Clearance:    13.0mil
+Board Edge Clearance:   Not Defined
+
+
+Layer Clearances (in   mm):
+-------------------------------
+
+Layer Name          Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+Top                   0.300     0.300     0.300     0.300     0.300     0.300
+Bottom                0.300     0.300     0.300     0.300     0.300     0.300
+
+
+Net Class Clearances (in   mm):
+-------------------------------
+Net Class Name      Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Net Clearances (In   mm):
+-------------------------
+Net Name            Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+Net Class To Net Class Clearances (in   mm):
+--------------------------------------------
+Net Class Names     Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Area Checked:
+-------------
+
+DRC Extents:            Entire Workspace
+
+
+DRC Report Options:
+-------------------
+
+Net List Compare:       Off
+Clearance Violations:   On
+Text Violations:        Off
+Net List Violations:    Off
+Unrouted Nets:          Off
+Unconnected Pins:       Off
+Net Length Violations:  Off
+Silk Violations:        Off
+Copper Pour Violations: Off
+Plane Violations:       Off
+Component Violations:   Off
+Drill Violations:       Off
+Test Point Violations:  Off
+
+DRC Errors:
+-----------
+
+
+CLEARANCE VIOLATIONS:
+
+Error 1 -- Clearance Violation between:
+   * Via at (114.500, 75.150) mm [Top layer]
+   * Pad DA5-6 at (113.100, 74.950) mm [Top layer]
+   * Calculated Clearance: 0.293mm.
+   * Rule: Layer{Top}.ViaToPadClearance=0.300mm
+Error 2 -- Clearance Violation between:
+   * Line at ( 98.750, 73.550):( 96.950, 73.550) mm [Top layer]
+   * Line at ( 96.400, 73.250):( 96.400, 77.300) mm [Top layer]
+   * Calculated Clearance: 0.296mm.
+   * Rule: Layer{Top}.LineToLineClearance=0.300mm
+Error 3 -- Clearance Violation between:
+   * Line at ( 96.950, 73.550):( 96.950, 74.950) mm [Top layer]
+   * Line at ( 96.400, 73.250):( 96.400, 77.300) mm [Top layer]
+   * Calculated Clearance: 0.296mm.
+   * Rule: Layer{Top}.LineToLineClearance=0.300mm
+Error 4 -- Clearance Violation between:
+   * Line at ( 98.250, 74.950):( 96.950, 74.950) mm [Top layer]
+   * Line at ( 96.400, 73.250):( 96.400, 77.300) mm [Top layer]
+   * Calculated Clearance: 0.296mm.
+   * Rule: Layer{Top}.LineToLineClearance=0.300mm
+
+0 warning(s) detected.
+4 error(s) detected.
+
+DRC Summary:
+------------
+
+Clearance:
+	Errors:         4
+	Warnings:       0
+	Ignored Errors: 0
