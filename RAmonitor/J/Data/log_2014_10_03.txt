@@ -1,0 +1,33 @@
+03.10.2014 20:42:48 *********************************************
+03.10.2014 20:42:48 Go
+S1. Main. Axes parameters set
+03.10.2014 20:42:49 ------------[ERROR] BAVARIAN protocol not initiated
+03.10.2014 20:42:49 Lamp current 127
+03.10.2014 20:42:50 RESET
+03.10.2014 20:42:50 Protocol version REQUESTED = 0
+03.10.2014 20:42:52 Protocol version SET = 0, response NULL
+03.10.2014 20:42:53 START block start
+03.10.2014 20:42:54 Cell OFF
+03.10.2014 20:43:01 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:43:01 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:43:01 Failure of a high level task. RunReset()
+03.10.2014 20:43:02 RESET
+03.10.2014 20:43:03 Protocol version REQUESTED = 0
+03.10.2014 20:43:04 REQUESTED = 165, RECEIVED = 165
+03.10.2014 20:46:15 *********************************************
+03.10.2014 20:46:15 Go
+S1. Main. Axes parameters set
+03.10.2014 20:46:15 ------------[ERROR] BAVARIAN protocol not initiated
+03.10.2014 20:46:15 Lamp current 127
+03.10.2014 20:46:16 RESET
+03.10.2014 20:46:17 Protocol version REQUESTED = 0
+03.10.2014 20:46:18 REQUESTED = 165, RECEIVED = 165
+03.10.2014 20:46:18 Protocol version SET = 165, iteration = 1
+03.10.2014 20:46:20 START block start
+03.10.2014 20:46:21 Cell OFF
+03.10.2014 20:46:28 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:46:28 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:46:28 Failure of a high level task. RunReset()
+03.10.2014 20:46:29 RESET
+03.10.2014 20:46:30 Protocol version REQUESTED = 0
+03.10.2014 20:46:30 REQUESTED = 165, RECEIVED = 165

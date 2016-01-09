@@ -1,0 +1,2280 @@
+27.10.2014 0:00:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:00:54 Failure of a high level task. RunReset()
+27.10.2014 0:00:55 RESET
+27.10.2014 0:00:59 Protocol version REQUESTED = 0
+27.10.2014 0:01:00 Protocol version SET = 0, response NULL
+27.10.2014 0:01:01 RESET block start
+27.10.2014 0:01:11 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:01:12 Cell OFF
+27.10.2014 0:01:21 Test1
+27.10.2014 0:01:22 Test2
+27.10.2014 0:01:23 Test3
+27.10.2014 0:01:24 Test4
+27.10.2014 0:01:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:01:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:02:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:03:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:04:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:05:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:24 Failure of a high level task. RunReset()
+27.10.2014 0:06:25 RESET
+27.10.2014 0:06:29 Protocol version REQUESTED = 0
+27.10.2014 0:06:30 Protocol version SET = 0, response NULL
+27.10.2014 0:06:31 RESET block start
+27.10.2014 0:06:41 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:06:42 Cell OFF
+27.10.2014 0:06:51 Test1
+27.10.2014 0:06:52 Test2
+27.10.2014 0:06:53 Test3
+27.10.2014 0:06:54 Test4
+27.10.2014 0:06:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:06:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:07:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:08:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:09:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:10:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:11:55 Failure of a high level task. RunReset()
+27.10.2014 0:11:56 RESET
+27.10.2014 0:11:59 Protocol version REQUESTED = 0
+27.10.2014 0:12:00 Protocol version SET = 0, response NULL
+27.10.2014 0:12:01 RESET block start
+27.10.2014 0:12:12 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:12:13 Cell OFF
+27.10.2014 0:12:22 Test1
+27.10.2014 0:12:23 Test2
+27.10.2014 0:12:24 Test3
+27.10.2014 0:12:25 Test4
+27.10.2014 0:12:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:12:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:13:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:14:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:15:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 0:15:02 Test5
+27.10.2014 0:15:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:15:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:16:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:17:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:18:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:19:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:03 Failure of a high level task. RunReset()
+27.10.2014 0:20:04 RESET
+27.10.2014 0:20:07 Protocol version REQUESTED = 0
+27.10.2014 0:20:08 Protocol version SET = 0, response NULL
+27.10.2014 0:20:09 RESET block start
+27.10.2014 0:20:20 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:20:21 Cell OFF
+27.10.2014 0:20:30 Test1
+27.10.2014 0:20:31 Test2
+27.10.2014 0:20:32 Test3
+27.10.2014 0:20:33 Test4
+27.10.2014 0:20:34 Test5
+27.10.2014 0:20:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:20:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:21:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:22:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:23:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:24:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:25:35 Failure of a high level task. RunReset()
+27.10.2014 0:25:36 RESET
+27.10.2014 0:25:39 Protocol version REQUESTED = 0
+27.10.2014 0:25:40 Protocol version SET = 0, response NULL
+27.10.2014 0:25:42 RESET block start
+27.10.2014 0:25:52 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:25:53 Cell OFF
+27.10.2014 0:26:02 Test1
+27.10.2014 0:26:03 Test2
+27.10.2014 0:26:04 Test3
+27.10.2014 0:26:05 Test4
+27.10.2014 0:26:06 Test5
+27.10.2014 0:26:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:26:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:27:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:28:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:18 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:36 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:29:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:11 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:19 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:20 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:21 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:22 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:23 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:24 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:25 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:26 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:27 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:28 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:29 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:30 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:31 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:32 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:33 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:34 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:35 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:37 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:38 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:54 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:30:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:07 Failure of a high level task. RunReset()
+27.10.2014 0:31:08 RESET
+27.10.2014 0:31:11 Protocol version REQUESTED = 0
+27.10.2014 0:31:13 Protocol version SET = 0, response NULL
+27.10.2014 0:31:14 RESET block start
+27.10.2014 0:31:24 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:31:25 Cell OFF
+27.10.2014 0:31:34 Test1
+27.10.2014 0:31:35 Test2
+27.10.2014 0:31:36 Test3
+27.10.2014 0:31:37 Test4
+27.10.2014 0:31:39 Test5
+27.10.2014 0:31:39 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:40 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:41 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:42 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:43 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:44 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:45 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:46 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:47 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:48 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:49 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:50 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:51 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:52 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:53 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:55 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:56 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:57 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:58 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:31:59 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:00 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:01 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:02 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:03 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:04 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:05 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:06 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:07 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:08 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:09 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:10 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:12 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:13 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:14 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:15 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:16 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:17 ------------[ERROR] Test5. Flow rate is out of working range
+27.10.2014 0:32:19 -------Calib CELL block start
+27.10.2014 0:32:20 Switch on ZERO valve.
+27.10.2014 0:32:20 DurationSampleZeroSwitch:  0,0 
+27.10.2014 0:32:21 DELAY zero
+27.10.2014 0:32:43 ZERO
+27.10.2014 0:33:13 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 0:33:14 Cell ON
+27.10.2014 0:33:22 ------------[ERROR] Cell. Wrong state
+27.10.2014 0:33:22 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 0:33:22 Failure of a high level task. RunReset()
+27.10.2014 0:33:23 RESET
+27.10.2014 0:33:26 Protocol version REQUESTED = 0
+27.10.2014 0:33:27 Protocol version SET = 0, response NULL
+27.10.2014 0:33:29 RESET block start
+27.10.2014 0:33:39 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:33:40 Cell OFF
+27.10.2014 0:33:49 Test1
+27.10.2014 0:33:50 Test2
+27.10.2014 0:33:51 Test3
+27.10.2014 0:33:52 Test4
+27.10.2014 0:33:53 Test5
+27.10.2014 0:33:54 -------Calib CELL block start
+27.10.2014 0:33:55 Switch on ZERO valve.
+27.10.2014 0:33:55 DurationSampleZeroSwitch:  0,0 
+27.10.2014 0:33:56 DELAY zero
+27.10.2014 0:34:04 ------------[ERROR] Transmission problem.
+27.10.2014 0:34:04 Failure of a high level task. RunReset()
+27.10.2014 0:34:05 RESET
+27.10.2014 0:34:08 Protocol version REQUESTED = 0
+27.10.2014 0:34:09 Protocol version SET = 0, response NULL
+27.10.2014 0:34:11 RESET block start
+27.10.2014 0:34:21 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:34:22 Cell OFF
+27.10.2014 0:34:31 Test1
+27.10.2014 0:34:32 Test2
+27.10.2014 0:34:33 Test3
+27.10.2014 0:34:34 Test4
+27.10.2014 0:34:35 Test5
+27.10.2014 0:34:36 -------Calib CELL block start
+27.10.2014 0:34:37 Switch on ZERO valve.
+27.10.2014 0:34:37 DurationSampleZeroSwitch:  0,0 
+27.10.2014 0:34:38 DELAY zero
+27.10.2014 0:34:46 ------------[ERROR] Transmission problem.
+27.10.2014 0:34:46 Failure of a high level task. RunReset()
+27.10.2014 0:34:47 RESET
+27.10.2014 0:34:50 Protocol version REQUESTED = 0
+27.10.2014 0:34:51 Protocol version SET = 0, response NULL
+27.10.2014 0:34:53 RESET block start
+27.10.2014 0:35:03 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:35:04 Cell OFF
+27.10.2014 0:35:12 ------------[ERROR] Cell. Wrong state
+27.10.2014 0:35:12 Signals.AveragedCellOFF = False, Signals.AveragedCellON = False
+27.10.2014 0:35:12 Failure of a high level task. RunReset()
+27.10.2014 0:35:13 RESET
+27.10.2014 0:35:16 Protocol version REQUESTED = 0
+27.10.2014 0:35:17 Protocol version SET = 0, response NULL
+27.10.2014 0:35:18 RESET block start
+27.10.2014 0:35:29 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:35:30 Cell OFF
+27.10.2014 0:35:39 Test1
+27.10.2014 0:35:40 Test2
+27.10.2014 0:35:41 Test3
+27.10.2014 0:35:42 Test4
+27.10.2014 0:35:43 Test5
+27.10.2014 0:35:44 -------Calib CELL block start
+27.10.2014 0:35:45 Switch on ZERO valve.
+27.10.2014 0:35:45 DurationSampleZeroSwitch:  0,0 
+27.10.2014 0:35:46 DELAY zero
+27.10.2014 0:35:54 ------------[ERROR] Transmission problem.
+27.10.2014 0:35:54 Failure of a high level task. RunReset()
+27.10.2014 0:35:55 RESET
+27.10.2014 0:35:58 Protocol version REQUESTED = 0
+27.10.2014 0:35:59 Protocol version SET = 0, response NULL
+27.10.2014 0:36:00 RESET block start
+27.10.2014 0:36:11 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:36:12 Cell OFF
+27.10.2014 0:36:21 Test1
+27.10.2014 0:36:22 Test2
+27.10.2014 0:36:23 Test3
+27.10.2014 0:36:24 Test4
+27.10.2014 0:36:25 Test5
+27.10.2014 0:36:26 -------Calib CELL block start
+27.10.2014 0:36:27 Switch on ZERO valve.
+27.10.2014 0:36:27 DurationSampleZeroSwitch:  0,0 
+27.10.2014 0:36:28 DELAY zero
+27.10.2014 0:36:36 ------------[ERROR] Transmission problem.
+27.10.2014 0:36:36 Failure of a high level task. RunReset()
+27.10.2014 0:36:37 RESET
+27.10.2014 0:36:40 Protocol version REQUESTED = 0
+27.10.2014 0:36:41 Protocol version SET = 0, response NULL
+27.10.2014 0:36:42 RESET block start
+27.10.2014 0:36:53 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:36:54 Cell OFF
+27.10.2014 0:37:03 Test1
+27.10.2014 0:37:04 Test2
+27.10.2014 0:37:05 Test3
+27.10.2014 0:37:06 Test4
+27.10.2014 0:37:07 Test5
+27.10.2014 0:37:08 -------Calib CELL block start
+27.10.2014 0:37:09 Switch on ZERO valve.
+27.10.2014 0:37:09 DurationSampleZeroSwitch:  0,0 
+27.10.2014 0:37:10 DELAY zero
+27.10.2014 0:37:18 ------------[ERROR] Transmission problem.
+27.10.2014 0:37:18 Failure of a high level task. RunReset()
+27.10.2014 0:37:19 RESET
+27.10.2014 0:37:22 Protocol version REQUESTED = 0
+27.10.2014 0:37:23 Protocol version SET = 0, response NULL
+27.10.2014 0:37:24 RESET block start
+27.10.2014 0:37:35 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:37:36 Cell OFF
+27.10.2014 0:37:44 ------------[ERROR] Cell. Wrong state
+27.10.2014 0:37:44 Signals.AveragedCellOFF = False, Signals.AveragedCellON = False
+27.10.2014 0:37:44 Failure of a high level task. RunReset()
+27.10.2014 0:37:45 RESET
+27.10.2014 0:37:48 Protocol version REQUESTED = 0
+27.10.2014 0:37:50 Protocol version SET = 0, response NULL
+27.10.2014 0:37:51 RESET block start
+27.10.2014 0:38:01 START position command. Get confirmation on Set START position on RESET
+27.10.2014 0:38:03 Cell OFF
+27.10.2014 0:38:11 TERMINATION button is clicked.
+27.10.2014 16:08:24 *********************************************
+27.10.2014 16:08:25 Go
+S1. Main. Axes parameters set
+27.10.2014 16:08:25 ------------[ERROR] BAVARIAN protocol not initiated
+27.10.2014 16:08:25 Lamp current 127
+27.10.2014 16:08:26 RESET
+27.10.2014 16:08:30 Protocol version REQUESTED = 0
+27.10.2014 16:08:31 Protocol version SET = 0, response NULL
+27.10.2014 16:08:32 START block start
+27.10.2014 16:08:33 Cell OFF
+27.10.2014 16:08:42 Test1
+27.10.2014 16:08:43 Test2
+27.10.2014 16:08:44 Test3
+27.10.2014 16:08:45 Test4
+27.10.2014 16:08:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:08:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:36 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:52 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:09:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:07 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:21 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:23 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:24 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:25 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:26 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:27 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:28 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:29 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:30 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:31 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:32 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:33 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:34 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:35 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:37 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:38 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:39 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:40 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:41 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:42 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:43 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:44 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:45 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:46 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:47 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:48 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:49 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:50 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:51 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:53 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:54 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:55 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:56 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:57 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:58 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:10:59 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:00 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:01 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:02 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:03 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:04 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:05 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:06 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:08 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:09 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:10 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:11 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:12 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:13 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:14 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:15 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:16 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:17 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:18 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:19 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:20 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:22 ------------[ERROR] Test4. P analytical cell is out of working range
+27.10.2014 16:11:24 Test5
+27.10.2014 16:11:25 DELAY zero START
+27.10.2014 16:16:25 ZeroDelayStart. Last Tasks: 0
+27.10.2014 16:16:26 -------Calib CELL block start
+27.10.2014 16:16:28 Switch on ZERO valve.
+27.10.2014 16:16:28 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:16:29 DELAY zero
+27.10.2014 16:16:50 ZERO
+27.10.2014 16:17:21 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:17:22 Cell ON
+27.10.2014 16:17:30 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:17:30 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:17:30 Failure of a high level task. RunReset()
+27.10.2014 16:17:31 RESET
+27.10.2014 16:17:34 Protocol version REQUESTED = 0
+27.10.2014 16:17:35 Protocol version SET = 0, response NULL
+27.10.2014 16:17:36 RESET block start
+27.10.2014 16:17:47 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:17:48 Cell OFF
+27.10.2014 16:17:57 Test1
+27.10.2014 16:17:58 Test2
+27.10.2014 16:17:59 Test3
+27.10.2014 16:18:00 Test4
+27.10.2014 16:18:01 Test5
+27.10.2014 16:18:02 -------Calib CELL block start
+27.10.2014 16:18:03 Switch on ZERO valve.
+27.10.2014 16:18:03 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:18:04 DELAY zero
+27.10.2014 16:18:26 ZERO
+27.10.2014 16:18:57 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:18:58 Cell ON
+27.10.2014 16:19:05 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:19:05 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:19:05 Failure of a high level task. RunReset()
+27.10.2014 16:19:06 RESET
+27.10.2014 16:19:10 Protocol version REQUESTED = 0
+27.10.2014 16:19:11 Protocol version SET = 0, response NULL
+27.10.2014 16:19:12 RESET block start
+27.10.2014 16:19:23 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:19:24 Cell OFF
+27.10.2014 16:19:32 Test1
+27.10.2014 16:19:33 Test2
+27.10.2014 16:19:35 Test3
+27.10.2014 16:19:36 Test4
+27.10.2014 16:19:37 Test5
+27.10.2014 16:19:38 -------Calib CELL block start
+27.10.2014 16:19:39 Switch on ZERO valve.
+27.10.2014 16:19:39 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:19:40 DELAY zero
+27.10.2014 16:20:01 ZERO
+27.10.2014 16:20:32 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:20:33 Cell ON
+27.10.2014 16:20:41 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:20:41 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:20:41 Failure of a high level task. RunReset()
+27.10.2014 16:20:42 RESET
+27.10.2014 16:20:45 Protocol version REQUESTED = 0
+27.10.2014 16:20:47 Protocol version SET = 0, response NULL
+27.10.2014 16:20:48 RESET block start
+27.10.2014 16:20:58 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:20:59 Cell OFF
+27.10.2014 16:21:08 Test1
+27.10.2014 16:21:09 Test2
+27.10.2014 16:21:10 Test3
+27.10.2014 16:21:11 Test4
+27.10.2014 16:21:12 Test5
+27.10.2014 16:21:14 -------Calib CELL block start
+27.10.2014 16:21:15 Switch on ZERO valve.
+27.10.2014 16:21:15 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:21:16 DELAY zero
+27.10.2014 16:21:37 ZERO
+27.10.2014 16:22:08 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:22:09 Cell ON
+27.10.2014 16:22:16 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:22:16 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:22:16 Failure of a high level task. RunReset()
+27.10.2014 16:22:17 RESET
+27.10.2014 16:22:21 Protocol version REQUESTED = 0
+27.10.2014 16:22:22 Protocol version SET = 0, response NULL
+27.10.2014 16:22:23 RESET block start
+27.10.2014 16:22:34 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:22:35 Cell OFF
+27.10.2014 16:22:43 Test1
+27.10.2014 16:22:44 Test2
+27.10.2014 16:22:46 Test3
+27.10.2014 16:22:47 Test4
+27.10.2014 16:22:48 Test5
+27.10.2014 16:22:49 -------Calib CELL block start
+27.10.2014 16:22:50 Switch on ZERO valve.
+27.10.2014 16:22:50 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:22:51 DELAY zero
+27.10.2014 16:23:13 ZERO
+27.10.2014 16:23:44 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:23:45 Cell ON
+27.10.2014 16:23:52 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:23:52 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:23:52 Failure of a high level task. RunReset()
+27.10.2014 16:23:53 RESET
+27.10.2014 16:23:57 Protocol version REQUESTED = 0
+27.10.2014 16:23:58 Protocol version SET = 0, response NULL
+27.10.2014 16:23:59 RESET block start
+27.10.2014 16:24:10 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:24:11 Cell OFF
+27.10.2014 16:24:19 Test1
+27.10.2014 16:24:20 Test2
+27.10.2014 16:24:22 Test3
+27.10.2014 16:24:23 Test4
+27.10.2014 16:24:24 Test5
+27.10.2014 16:24:25 -------Calib CELL block start
+27.10.2014 16:24:26 Switch on ZERO valve.
+27.10.2014 16:24:26 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:24:27 DELAY zero
+27.10.2014 16:24:48 ZERO
+27.10.2014 16:25:19 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:25:20 Cell ON
+27.10.2014 16:25:28 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:25:28 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:25:28 Failure of a high level task. RunReset()
+27.10.2014 16:25:29 RESET
+27.10.2014 16:25:32 Protocol version REQUESTED = 0
+27.10.2014 16:25:33 Protocol version SET = 0, response NULL
+27.10.2014 16:25:34 RESET block start
+27.10.2014 16:25:45 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:25:46 Cell OFF
+27.10.2014 16:25:55 Test1
+27.10.2014 16:25:56 Test2
+27.10.2014 16:25:57 Test3
+27.10.2014 16:25:58 Test4
+27.10.2014 16:25:59 Test5
+27.10.2014 16:26:00 -------Calib CELL block start
+27.10.2014 16:26:01 Switch on ZERO valve.
+27.10.2014 16:26:01 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:26:03 DELAY zero
+27.10.2014 16:26:24 ZERO
+27.10.2014 16:26:55 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:26:56 Cell ON
+27.10.2014 16:27:03 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:27:03 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:27:03 Failure of a high level task. RunReset()
+27.10.2014 16:27:04 RESET
+27.10.2014 16:27:08 Protocol version REQUESTED = 0
+27.10.2014 16:27:09 Protocol version SET = 0, response NULL
+27.10.2014 16:27:10 RESET block start
+27.10.2014 16:27:21 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:27:22 Cell OFF
+27.10.2014 16:27:30 Test1
+27.10.2014 16:27:32 Test2
+27.10.2014 16:27:33 Test3
+27.10.2014 16:27:34 Test4
+27.10.2014 16:27:35 Test5
+27.10.2014 16:27:36 -------Calib CELL block start
+27.10.2014 16:27:37 Switch on ZERO valve.
+27.10.2014 16:27:37 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:27:38 DELAY zero
+27.10.2014 16:28:00 ZERO
+27.10.2014 16:28:30 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:28:31 Cell ON
+27.10.2014 16:28:39 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:28:39 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:28:39 Failure of a high level task. RunReset()
+27.10.2014 16:28:40 RESET
+27.10.2014 16:28:43 Protocol version REQUESTED = 0
+27.10.2014 16:28:44 Protocol version SET = 0, response NULL
+27.10.2014 16:28:45 RESET block start
+27.10.2014 16:28:56 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:28:57 Cell OFF
+27.10.2014 16:29:06 Test1
+27.10.2014 16:29:07 Test2
+27.10.2014 16:29:08 Test3
+27.10.2014 16:29:09 Test4
+27.10.2014 16:29:10 Test5
+27.10.2014 16:29:12 -------Calib CELL block start
+27.10.2014 16:29:13 Switch on ZERO valve.
+27.10.2014 16:29:13 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:29:14 DELAY zero
+27.10.2014 16:29:35 ZERO
+27.10.2014 16:30:06 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:30:07 Cell ON
+27.10.2014 16:30:14 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:30:14 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:30:14 Failure of a high level task. RunReset()
+27.10.2014 16:30:16 RESET
+27.10.2014 16:30:19 Protocol version REQUESTED = 0
+27.10.2014 16:30:20 Protocol version SET = 0, response NULL
+27.10.2014 16:30:21 RESET block start
+27.10.2014 16:30:32 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:30:33 Cell OFF
+27.10.2014 16:30:42 Test1
+27.10.2014 16:30:43 Test2
+27.10.2014 16:30:44 Test3
+27.10.2014 16:30:45 Test4
+27.10.2014 16:30:46 Test5
+27.10.2014 16:30:47 -------Calib CELL block start
+27.10.2014 16:30:48 Switch on ZERO valve.
+27.10.2014 16:30:48 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:30:49 DELAY zero
+27.10.2014 16:31:11 ZERO
+27.10.2014 16:31:42 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:31:43 Cell ON
+27.10.2014 16:31:50 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:31:50 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:31:50 Failure of a high level task. RunReset()
+27.10.2014 16:31:51 RESET
+27.10.2014 16:31:55 Protocol version REQUESTED = 0
+27.10.2014 16:31:56 Protocol version SET = 0, response NULL
+27.10.2014 16:31:57 RESET block start
+27.10.2014 16:32:08 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:32:09 Cell OFF
+27.10.2014 16:32:17 Test1
+27.10.2014 16:32:18 Test2
+27.10.2014 16:32:20 Test3
+27.10.2014 16:32:21 Test4
+27.10.2014 16:32:22 Test5
+27.10.2014 16:32:23 -------Calib CELL block start
+27.10.2014 16:32:24 Switch on ZERO valve.
+27.10.2014 16:32:24 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:32:25 DELAY zero
+27.10.2014 16:32:46 ZERO
+27.10.2014 16:33:17 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:33:18 Cell ON
+27.10.2014 16:33:26 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:33:26 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:33:26 Failure of a high level task. RunReset()
+27.10.2014 16:33:27 RESET
+27.10.2014 16:33:30 Protocol version REQUESTED = 0
+27.10.2014 16:33:31 Protocol version SET = 0, response NULL
+27.10.2014 16:33:32 RESET block start
+27.10.2014 16:33:43 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:33:44 Cell OFF
+27.10.2014 16:33:53 Test1
+27.10.2014 16:33:54 Test2
+27.10.2014 16:33:55 Test3
+27.10.2014 16:33:56 Test4
+27.10.2014 16:33:57 Test5
+27.10.2014 16:33:58 -------Calib CELL block start
+27.10.2014 16:34:00 Switch on ZERO valve.
+27.10.2014 16:34:00 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:34:01 DELAY zero
+27.10.2014 16:34:22 ZERO
+27.10.2014 16:34:53 Zero level: Parameters.zeroLevel.Value = 513,528917467918
+27.10.2014 16:34:54 Cell ON
+27.10.2014 16:35:01 ------------[ERROR] Cell. Wrong state
+27.10.2014 16:35:01 Signals.AveragedCellOFF = True, Signals.AveragedCellON = False
+27.10.2014 16:35:01 Failure of a high level task. RunReset()
+27.10.2014 16:35:03 RESET
+27.10.2014 16:35:06 Protocol version REQUESTED = 0
+27.10.2014 16:35:07 Protocol version SET = 0, response NULL
+27.10.2014 16:35:08 RESET block start
+27.10.2014 16:35:19 START position command. Get confirmation on Set START position on RESET
+27.10.2014 16:35:20 Cell OFF
+27.10.2014 16:35:29 Test1
+27.10.2014 16:35:30 Test2
+27.10.2014 16:35:31 Test3
+27.10.2014 16:35:32 Test4
+27.10.2014 16:35:33 Test5
+27.10.2014 16:35:34 -------Calib CELL block start
+27.10.2014 16:35:35 Switch on ZERO valve.
+27.10.2014 16:35:35 DurationSampleZeroSwitch:  0,0 
+27.10.2014 16:35:36 DELAY zero
+27.10.2014 16:35:58 ZERO
+27.10.2014 16:36:23 TERMINATION button is clicked.

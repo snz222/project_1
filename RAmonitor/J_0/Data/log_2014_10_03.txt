@@ -1,0 +1,184 @@
+03.10.2014 18:46:43 *********************************************
+03.10.2014 18:46:43 Go
+S1. Main. Axes parameters set
+03.10.2014 18:46:43 ------------[ERROR] BAVARIAN protocol not initiated
+03.10.2014 18:46:43 Lamp current 127
+03.10.2014 18:46:44 RESET
+03.10.2014 18:46:45 Protocol version REQUESTED = 0
+03.10.2014 18:46:45 REQUESTED = 165, RECEIVED = 165
+03.10.2014 18:46:45 Protocol version SET = 165, iteration = 1
+03.10.2014 18:46:48 START block start
+03.10.2014 18:46:49 Cell OFF
+03.10.2014 18:46:56 ------------[ERROR] Cell. Wrong state
+03.10.2014 18:46:56 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 18:46:56 Failure of a high level task. RunReset()
+03.10.2014 18:46:57 RESET
+03.10.2014 18:46:58 Protocol version REQUESTED = 0
+03.10.2014 18:46:58 REQUESTED = 165, RECEIVED = 165
+03.10.2014 18:46:58 Protocol version SET = 165, iteration = 1
+03.10.2014 18:46:59 RESET block start
+03.10.2014 18:47:10 ------------[ERROR] START position command. Can't get confirmation on Set START position on RESET
+03.10.2014 18:47:11 Cell OFF
+03.10.2014 18:47:19 ------------[ERROR] Cell. Wrong state
+03.10.2014 18:47:19 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 18:47:19 Failure of a high level task. RunReset()
+03.10.2014 18:47:20 RESET
+03.10.2014 18:47:20 Protocol version REQUESTED = 0
+03.10.2014 18:47:21 REQUESTED = 165, RECEIVED = 165
+03.10.2014 18:47:21 Protocol version SET = 165, iteration = 1
+03.10.2014 18:47:22 RESET block start
+03.10.2014 18:47:34 ------------[ERROR] START position command. Can't get confirmation on Set START position on RESET
+03.10.2014 18:47:35 Cell OFF
+03.10.2014 18:47:42 ------------[ERROR] Cell. Wrong state
+03.10.2014 18:47:42 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 18:47:42 Failure of a high level task. RunReset()
+03.10.2014 18:47:43 RESET
+03.10.2014 18:47:43 Protocol version REQUESTED = 0
+03.10.2014 18:47:44 REQUESTED = 165, RECEIVED = 165
+03.10.2014 18:47:44 Protocol version SET = 165, iteration = 1
+03.10.2014 18:47:45 RESET block start
+03.10.2014 18:47:57 ------------[ERROR] START position command. Can't get confirmation on Set START position on RESET
+03.10.2014 18:47:58 Cell OFF
+03.10.2014 18:48:05 ------------[ERROR] Cell. Wrong state
+03.10.2014 18:48:05 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 18:48:05 Failure of a high level task. RunReset()
+03.10.2014 18:48:06 RESET
+03.10.2014 18:48:06 Protocol version REQUESTED = 0
+03.10.2014 18:48:08 Protocol version SET = 0, response NULL
+03.10.2014 18:48:09 RESET block start
+03.10.2014 18:48:19 START position command. Get confirmation on Set START position on RESET
+03.10.2014 18:48:20 Cell OFF
+03.10.2014 18:48:27 ------------[ERROR] Cell. Wrong state
+03.10.2014 18:48:27 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 18:48:27 Failure of a high level task. RunReset()
+03.10.2014 18:48:28 RESET
+03.10.2014 18:48:29 Protocol version REQUESTED = 0
+03.10.2014 18:48:29 REQUESTED = 165, RECEIVED = 165
+03.10.2014 18:48:30 Protocol version SET = 165, iteration = 1
+03.10.2014 18:48:31 RESET block start
+03.10.2014 18:48:42 ------------[ERROR] START position command. Can't get confirmation on Set START position on RESET
+03.10.2014 18:48:43 Cell OFF
+03.10.2014 18:48:51 ------------[ERROR] Cell. Wrong state
+03.10.2014 18:48:51 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 18:48:51 Failure of a high level task. RunReset()
+03.10.2014 18:48:52 RESET
+03.10.2014 18:48:52 Protocol version REQUESTED = 0
+03.10.2014 18:48:53 Protocol version SET = 0, response NULL
+03.10.2014 18:48:55 RESET block start
+03.10.2014 18:49:05 START position command. Get confirmation on Set START position on RESET
+03.10.2014 18:49:06 Cell OFF
+03.10.2014 18:49:13 ------------[ERROR] Cell. Wrong state
+03.10.2014 18:49:13 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 18:49:13 Failure of a high level task. RunReset()
+03.10.2014 18:49:14 RESET
+03.10.2014 18:49:15 Protocol version REQUESTED = 0
+03.10.2014 18:49:16 Protocol version SET = 0, response NULL
+03.10.2014 18:49:17 RESET block start
+03.10.2014 18:49:27 START position command. Get confirmation on Set START position on RESET
+03.10.2014 18:49:28 Cell OFF
+03.10.2014 19:03:51 *********************************************
+03.10.2014 19:03:51 Go
+S1. Main. Axes parameters set
+03.10.2014 19:03:51 ------------[ERROR] BAVARIAN protocol not initiated
+03.10.2014 19:03:51 Lamp current 127
+03.10.2014 19:03:52 RESET
+03.10.2014 19:03:53 Protocol version REQUESTED = 0
+03.10.2014 19:03:53 REQUESTED = 165, RECEIVED = 165
+03.10.2014 19:03:54 Protocol version SET = 165, iteration = 1
+03.10.2014 19:03:56 START block start
+03.10.2014 19:03:58 Cell OFF
+03.10.2014 19:04:05 ------------[ERROR] Cell. Wrong state
+03.10.2014 19:04:05 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 19:04:05 Failure of a high level task. RunReset()
+03.10.2014 19:04:06 RESET
+03.10.2014 19:04:07 Protocol version REQUESTED = 0
+03.10.2014 19:04:08 Protocol version SET = 0, response NULL
+03.10.2014 19:04:09 RESET block start
+03.10.2014 19:04:19 START position command. Get confirmation on Set START position on RESET
+03.10.2014 19:04:20 Cell OFF
+03.10.2014 19:04:27 ------------[ERROR] Cell. Wrong state
+03.10.2014 19:04:27 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 19:04:27 Failure of a high level task. RunReset()
+03.10.2014 19:04:28 RESET
+03.10.2014 19:04:29 Protocol version REQUESTED = 0
+03.10.2014 19:04:30 REQUESTED = 165, RECEIVED = 165
+03.10.2014 19:04:30 Protocol version SET = 165, iteration = 1
+03.10.2014 19:04:32 RESET block start
+03.10.2014 19:04:43 ------------[ERROR] START position command. Can't get confirmation on Set START position on RESET
+03.10.2014 19:04:44 Cell OFF
+03.10.2014 19:04:51 ------------[ERROR] Cell. Wrong state
+03.10.2014 19:04:51 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 19:04:51 Failure of a high level task. RunReset()
+03.10.2014 19:04:52 RESET
+03.10.2014 19:04:53 Protocol version REQUESTED = 0
+03.10.2014 19:04:54 Protocol version SET = 0, response NULL
+03.10.2014 19:04:55 RESET block start
+03.10.2014 19:05:05 START position command. Get confirmation on Set START position on RESET
+03.10.2014 19:05:06 Cell OFF
+03.10.2014 19:05:14 ------------[ERROR] Cell. Wrong state
+03.10.2014 19:05:14 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 19:05:14 Failure of a high level task. RunReset()
+03.10.2014 20:47:38 *********************************************
+03.10.2014 20:47:38 Go
+S1. Main. Axes parameters set
+03.10.2014 20:47:38 ------------[ERROR] BAVARIAN protocol not initiated
+03.10.2014 20:47:39 Lamp current 127
+03.10.2014 20:47:40 RESET
+03.10.2014 20:47:41 Protocol version REQUESTED = 0
+03.10.2014 20:47:42 Protocol version SET = 0, response NULL
+03.10.2014 20:47:43 START block start
+03.10.2014 20:47:44 Cell OFF
+03.10.2014 20:47:52 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:47:52 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:47:52 Failure of a high level task. RunReset()
+03.10.2014 20:47:53 RESET
+03.10.2014 20:47:53 Protocol version REQUESTED = 0
+03.10.2014 20:47:54 Protocol version SET = 0, response NULL
+03.10.2014 20:47:55 RESET block start
+03.10.2014 20:48:06 START position command. Get confirmation on Set START position on RESET
+03.10.2014 20:48:07 Cell OFF
+03.10.2014 20:48:14 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:48:14 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:48:14 Failure of a high level task. RunReset()
+03.10.2014 20:48:15 RESET
+03.10.2014 20:48:16 Protocol version REQUESTED = 0
+03.10.2014 20:48:17 Protocol version SET = 0, response NULL
+03.10.2014 20:48:18 RESET block start
+03.10.2014 20:48:28 START position command. Get confirmation on Set START position on RESET
+03.10.2014 20:48:29 Cell OFF
+03.10.2014 20:48:36 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:48:36 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:48:36 Failure of a high level task. RunReset()
+03.10.2014 20:48:37 RESET
+03.10.2014 20:48:38 Protocol version REQUESTED = 0
+03.10.2014 20:48:39 Protocol version SET = 0, response NULL
+03.10.2014 20:48:40 RESET block start
+03.10.2014 20:48:50 START position command. Get confirmation on Set START position on RESET
+03.10.2014 20:48:51 Cell OFF
+03.10.2014 20:48:59 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:48:59 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:48:59 Failure of a high level task. RunReset()
+03.10.2014 20:49:00 RESET
+03.10.2014 20:49:00 Protocol version REQUESTED = 0
+03.10.2014 20:49:01 Protocol version SET = 0, response NULL
+03.10.2014 20:49:02 RESET block start
+03.10.2014 20:49:13 START position command. Get confirmation on Set START position on RESET
+03.10.2014 20:49:14 Cell OFF
+03.10.2014 20:49:21 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:49:21 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:49:21 Failure of a high level task. RunReset()
+03.10.2014 20:49:22 RESET
+03.10.2014 20:49:23 Protocol version REQUESTED = 0
+03.10.2014 20:49:24 Protocol version SET = 0, response NULL
+03.10.2014 20:49:25 RESET block start
+03.10.2014 20:49:35 START position command. Get confirmation on Set START position on RESET
+03.10.2014 20:49:36 Cell OFF
+03.10.2014 20:49:43 ------------[ERROR] Cell. Wrong state
+03.10.2014 20:49:43 Signals.AveragedCellOFF = True, Signals.AveragedCellON = True
+03.10.2014 20:49:43 Failure of a high level task. RunReset()
+03.10.2014 20:49:44 RESET
+03.10.2014 20:49:45 Protocol version REQUESTED = 0
+03.10.2014 20:49:46 Protocol version SET = 0, response NULL
+03.10.2014 20:49:47 RESET block start
+03.10.2014 20:49:58 START position command. Get confirmation on Set START position on RESET
+03.10.2014 20:49:59 Cell OFF

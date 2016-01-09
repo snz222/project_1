@@ -1,0 +1,71 @@
+26.11.2014 19:53:03 *********************************************
+26.11.2014 19:53:03 Go
+S1. Main. Axes parameters set
+26.11.2014 19:53:04 ------------[ERROR] BAVARIAN protocol not initiated
+26.11.2014 19:53:04 Lamp current 127
+26.11.2014 19:53:05 RESET
+26.11.2014 19:53:09 Protocol version REQUESTED = 0
+26.11.2014 19:53:09 Protocol version SET = 0, iteration = 0
+26.11.2014 19:53:10 START block start
+26.11.2014 19:53:11 Cell OFF
+26.11.2014 19:53:19 Test1
+26.11.2014 19:53:20 Test2
+26.11.2014 19:53:21 Test3
+26.11.2014 19:53:22 Test4
+26.11.2014 19:53:23 Test5
+26.11.2014 19:53:25 DELAY zero START
+26.11.2014 19:53:55 ZeroDelayStart. Last Tasks: 0
+26.11.2014 19:53:56 -------Calib CELL block start
+26.11.2014 19:53:57 Switch on ZERO valve.
+26.11.2014 19:53:57 DurationSampleZeroSwitch:  0,0 
+26.11.2014 19:53:58 DELAY zero
+26.11.2014 19:54:20 ZERO
+26.11.2014 19:54:50 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+26.11.2014 19:54:51 Cell ON
+26.11.2014 19:55:00 TEST CELL
+26.11.2014 19:55:20 TEST CELL level = 428,898278747182
+26.11.2014 19:55:20 CAL coefficient =  1,142 
+26.11.2014 19:55:21 Cell OFF
+26.11.2014 19:55:31 Switch on ZERO valve.
+26.11.2014 19:55:31 DurationSampleZeroSwitch:  0,0 
+26.11.2014 19:55:32 DELAY zero
+26.11.2014 19:55:54 ZERO
+26.11.2014 19:56:25 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+26.11.2014 19:56:26 Switch on SAMPLE valve
+26.11.2014 19:56:27 DurationZeroSampleSwitch:  1,0 
+26.11.2014 19:56:28 DELAY sample
+26.11.2014 19:56:48 MEASURE start
+26.11.2014 20:27:04 *********************************************
+26.11.2014 20:27:04 Go
+S1. Main. Axes parameters set
+26.11.2014 20:27:05 ------------[ERROR] BAVARIAN protocol not initiated
+26.11.2014 20:27:05 Lamp current 127
+26.11.2014 20:27:06 RESET
+26.11.2014 20:27:09 Protocol version REQUESTED = 0
+26.11.2014 20:27:09 Protocol version SET = 0, iteration = 0
+26.11.2014 20:27:11 START block start
+26.11.2014 20:27:12 Cell OFF
+26.11.2014 20:27:20 Test1
+26.11.2014 20:27:21 Test2
+26.11.2014 20:27:22 Test3
+26.11.2014 20:27:23 Test4
+26.11.2014 20:27:24 Test5
+26.11.2014 20:27:26 DELAY zero START
+26.11.2014 20:27:49 TERMINATION button is clicked.
+26.11.2014 20:32:16 *********************************************
+26.11.2014 20:32:16 Go
+S1. Main. Axes parameters set
+26.11.2014 20:32:17 ------------[ERROR] BAVARIAN protocol not initiated
+26.11.2014 20:32:17 Lamp current 127
+26.11.2014 20:32:18 RESET
+26.11.2014 20:32:21 Protocol version REQUESTED = 0
+26.11.2014 20:32:21 Protocol version SET = 0, iteration = 0
+26.11.2014 20:32:23 START block start
+26.11.2014 20:32:24 Cell OFF
+26.11.2014 20:32:32 Test1
+26.11.2014 20:32:33 Test2
+26.11.2014 20:32:34 Test3
+26.11.2014 20:32:35 Test4
+26.11.2014 20:32:37 Test5
+26.11.2014 20:32:38 DELAY zero START
+26.11.2014 20:32:41 TERMINATION button is clicked.

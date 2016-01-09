@@ -1,0 +1,336 @@
+01.11.2014 12:30:46 *********************************************
+01.11.2014 12:30:46 Go
+S1. Main. Axes parameters set
+01.11.2014 12:30:46 ------------[ERROR] BAVARIAN protocol not initiated
+01.11.2014 12:30:46 Lamp current 127
+01.11.2014 12:30:47 RESET
+01.11.2014 12:30:51 Protocol version REQUESTED = 0
+01.11.2014 12:30:51 Protocol version SET = 0, iteration = 0
+01.11.2014 12:30:52 START block start
+01.11.2014 12:30:53 Cell OFF
+01.11.2014 12:31:02 Test1
+01.11.2014 12:31:03 Test2
+01.11.2014 12:31:04 Test3
+01.11.2014 12:31:05 Test4
+01.11.2014 12:31:05 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:06 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:07 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:08 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:09 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:10 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:11 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:12 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:13 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:14 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:15 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:16 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:17 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:18 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:19 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:20 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:22 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:23 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:24 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:25 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:26 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:27 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:28 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:29 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:30 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:31 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:32 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:33 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:34 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:35 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:36 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:37 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:38 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:39 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:40 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:41 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:42 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:43 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:44 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:45 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:46 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:47 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:48 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:49 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:51 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:52 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:53 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:54 ------------[ERROR] Test4. P analytical cell is out of working range
+01.11.2014 12:31:56 Test5
+01.11.2014 12:31:56 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:31:57 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:31:58 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:31:59 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:00 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:02 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:03 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:04 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:05 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:06 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:07 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:08 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:09 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:10 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:11 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:12 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:13 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:14 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:15 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:16 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:17 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:18 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:19 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:20 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:22 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:23 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:24 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:25 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:26 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:27 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:28 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:29 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:30 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:31 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:32 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:33 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:34 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:35 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:36 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:37 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:39 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:40 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:41 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:42 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:43 ------------[ERROR] Test5. Flow rate is out of working range
+01.11.2014 12:32:45 DELAY zero START
+01.11.2014 12:37:46 ZeroDelayStart. Last Tasks: 0
+01.11.2014 12:37:47 -------Calib CELL block start
+01.11.2014 12:37:48 Switch on ZERO valve.
+01.11.2014 12:37:48 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:37:49 DELAY zero
+01.11.2014 12:38:11 ZERO
+01.11.2014 12:38:41 Zero level: Parameters.zeroLevel.Value = -56,2743710701209
+01.11.2014 12:38:42 Cell ON
+01.11.2014 12:38:51 TEST CELL
+01.11.2014 12:39:11 TEST CELL level = 428,898278747182
+01.11.2014 12:39:11 CAL coefficient =  1,142 
+01.11.2014 12:39:12 Cell OFF
+01.11.2014 12:39:22 Switch on ZERO valve.
+01.11.2014 12:39:22 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:39:23 DELAY zero
+01.11.2014 12:39:45 ZERO
+01.11.2014 12:40:15 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:40:16 Switch on SAMPLE valve
+01.11.2014 12:40:24 ------------[ERROR] SAMPLE valve. Wrong state
+01.11.2014 12:40:24 Failure of a high level task. RunReset()
+01.11.2014 12:40:25 RESET
+01.11.2014 12:40:28 Protocol version REQUESTED = 0
+01.11.2014 12:40:28 Protocol version SET = 0, iteration = 0
+01.11.2014 12:40:29 RESET block start
+01.11.2014 12:40:40 START position command. Get confirmation on Set START position on RESET
+01.11.2014 12:40:41 Cell OFF
+01.11.2014 12:40:49 Test1
+01.11.2014 12:40:50 Test2
+01.11.2014 12:40:51 Test3
+01.11.2014 12:40:52 Test4
+01.11.2014 12:40:53 Test5
+01.11.2014 12:40:54 -------Calib CELL block start
+01.11.2014 12:40:55 Switch on ZERO valve.
+01.11.2014 12:40:55 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:40:56 DELAY zero
+01.11.2014 12:41:18 ZERO
+01.11.2014 12:41:49 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:41:50 Cell ON
+01.11.2014 12:41:58 TEST CELL
+01.11.2014 12:42:19 TEST CELL level = 428,898278747182
+01.11.2014 12:42:19 CAL coefficient =  1,142 
+01.11.2014 12:42:20 Cell OFF
+01.11.2014 12:42:29 Switch on ZERO valve.
+01.11.2014 12:42:29 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:42:30 DELAY zero
+01.11.2014 12:42:52 ZERO
+01.11.2014 12:43:23 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:43:24 Switch on SAMPLE valve
+01.11.2014 12:43:31 ------------[ERROR] SAMPLE valve. Wrong state
+01.11.2014 12:43:31 Failure of a high level task. RunReset()
+01.11.2014 12:43:32 RESET
+01.11.2014 12:43:36 Protocol version REQUESTED = 0
+01.11.2014 12:43:36 Protocol version SET = 0, iteration = 0
+01.11.2014 12:43:37 RESET block start
+01.11.2014 12:43:47 START position command. Get confirmation on Set START position on RESET
+01.11.2014 12:43:48 Cell OFF
+01.11.2014 12:43:57 Test1
+01.11.2014 12:43:58 Test2
+01.11.2014 12:43:59 Test3
+01.11.2014 12:44:00 Test4
+01.11.2014 12:44:01 Test5
+01.11.2014 12:44:02 -------Calib CELL block start
+01.11.2014 12:44:03 Switch on ZERO valve.
+01.11.2014 12:44:03 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:44:04 DELAY zero
+01.11.2014 12:44:26 ZERO
+01.11.2014 12:44:57 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:44:58 Cell ON
+01.11.2014 12:45:06 TEST CELL
+01.11.2014 12:45:27 TEST CELL level = 428,898278747182
+01.11.2014 12:45:27 CAL coefficient =  1,142 
+01.11.2014 12:45:28 Cell OFF
+01.11.2014 12:45:37 Switch on ZERO valve.
+01.11.2014 12:45:37 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:45:38 DELAY zero
+01.11.2014 12:46:00 ZERO
+01.11.2014 12:46:31 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:46:32 Switch on SAMPLE valve
+01.11.2014 12:46:39 ------------[ERROR] SAMPLE valve. Wrong state
+01.11.2014 12:46:39 Failure of a high level task. RunReset()
+01.11.2014 12:46:40 RESET
+01.11.2014 12:46:43 Protocol version REQUESTED = 0
+01.11.2014 12:46:43 Protocol version SET = 0, iteration = 0
+01.11.2014 12:46:44 RESET block start
+01.11.2014 12:46:55 START position command. Get confirmation on Set START position on RESET
+01.11.2014 12:46:56 Cell OFF
+01.11.2014 12:47:04 Test1
+01.11.2014 12:47:05 Test2
+01.11.2014 12:47:06 Test3
+01.11.2014 12:47:07 Test4
+01.11.2014 12:47:08 Test5
+01.11.2014 12:47:09 -------Calib CELL block start
+01.11.2014 12:47:10 Switch on ZERO valve.
+01.11.2014 12:47:10 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:47:12 DELAY zero
+01.11.2014 12:47:33 ZERO
+01.11.2014 12:48:04 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:48:05 Cell ON
+01.11.2014 12:48:13 TEST CELL
+01.11.2014 12:48:34 TEST CELL level = 428,898278747182
+01.11.2014 12:48:34 CAL coefficient =  1,142 
+01.11.2014 12:48:35 Cell OFF
+01.11.2014 12:48:45 Switch on ZERO valve.
+01.11.2014 12:48:45 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:48:46 DELAY zero
+01.11.2014 12:49:07 ZERO
+01.11.2014 12:49:38 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:49:39 Switch on SAMPLE valve
+01.11.2014 12:49:47 ------------[ERROR] SAMPLE valve. Wrong state
+01.11.2014 12:49:47 Failure of a high level task. RunReset()
+01.11.2014 12:49:48 RESET
+01.11.2014 12:49:51 Protocol version REQUESTED = 0
+01.11.2014 12:49:51 Protocol version SET = 0, iteration = 0
+01.11.2014 12:49:52 RESET block start
+01.11.2014 12:50:03 START position command. Get confirmation on Set START position on RESET
+01.11.2014 12:50:04 Cell OFF
+01.11.2014 12:50:12 Test1
+01.11.2014 12:50:13 Test2
+01.11.2014 12:50:14 Test3
+01.11.2014 12:50:15 Test4
+01.11.2014 12:50:16 Test5
+01.11.2014 12:50:17 -------Calib CELL block start
+01.11.2014 12:50:18 Switch on ZERO valve.
+01.11.2014 12:50:18 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:50:19 DELAY zero
+01.11.2014 12:50:41 ZERO
+01.11.2014 12:51:12 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:51:13 Cell ON
+01.11.2014 12:51:21 TEST CELL
+01.11.2014 12:51:42 TEST CELL level = 428,898278747182
+01.11.2014 12:51:42 CAL coefficient =  1,142 
+01.11.2014 12:51:43 Cell OFF
+01.11.2014 12:51:52 Switch on ZERO valve.
+01.11.2014 12:51:52 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:51:54 DELAY zero
+01.11.2014 12:52:15 ZERO
+01.11.2014 12:52:46 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:52:47 Switch on SAMPLE valve
+01.11.2014 12:52:55 ------------[ERROR] SAMPLE valve. Wrong state
+01.11.2014 12:52:55 Failure of a high level task. RunReset()
+01.11.2014 12:52:56 RESET
+01.11.2014 12:52:59 Protocol version REQUESTED = 0
+01.11.2014 12:52:59 Protocol version SET = 0, iteration = 0
+01.11.2014 12:53:00 RESET block start
+01.11.2014 12:53:11 START position command. Get confirmation on Set START position on RESET
+01.11.2014 12:53:12 Cell OFF
+01.11.2014 12:53:20 Test1
+01.11.2014 12:53:21 Test2
+01.11.2014 12:53:22 Test3
+01.11.2014 12:53:24 Test4
+01.11.2014 12:53:25 Test5
+01.11.2014 12:53:26 -------Calib CELL block start
+01.11.2014 12:53:27 Switch on ZERO valve.
+01.11.2014 12:53:27 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:53:28 DELAY zero
+01.11.2014 12:53:50 ZERO
+01.11.2014 12:54:20 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:54:22 Cell ON
+01.11.2014 12:54:30 TEST CELL
+01.11.2014 12:54:51 TEST CELL level = 428,898278747182
+01.11.2014 12:54:51 CAL coefficient =  1,142 
+01.11.2014 12:54:52 Cell OFF
+01.11.2014 12:55:01 Switch on ZERO valve.
+01.11.2014 12:55:01 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:55:02 DELAY zero
+01.11.2014 12:55:24 ZERO
+01.11.2014 12:55:55 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:55:56 Switch on SAMPLE valve
+01.11.2014 12:56:03 ------------[ERROR] SAMPLE valve. Wrong state
+01.11.2014 12:56:03 Failure of a high level task. RunReset()
+01.11.2014 12:56:04 RESET
+01.11.2014 12:56:08 Protocol version REQUESTED = 0
+01.11.2014 12:56:08 Protocol version SET = 0, iteration = 0
+01.11.2014 12:56:09 RESET block start
+01.11.2014 12:56:19 START position command. Get confirmation on Set START position on RESET
+01.11.2014 12:56:20 Cell OFF
+01.11.2014 12:56:29 Test1
+01.11.2014 12:56:30 Test2
+01.11.2014 12:56:31 Test3
+01.11.2014 12:56:32 Test4
+01.11.2014 12:56:33 Test5
+01.11.2014 12:56:34 -------Calib CELL block start
+01.11.2014 12:56:35 Switch on ZERO valve.
+01.11.2014 12:56:35 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:56:36 DELAY zero
+01.11.2014 12:56:58 ZERO
+01.11.2014 12:57:29 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:57:30 Cell ON
+01.11.2014 12:57:38 TEST CELL
+01.11.2014 12:57:59 TEST CELL level = 428,898278747182
+01.11.2014 12:57:59 CAL coefficient =  1,142 
+01.11.2014 12:58:00 Cell OFF
+01.11.2014 12:58:09 Switch on ZERO valve.
+01.11.2014 12:58:09 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:58:10 DELAY zero
+01.11.2014 12:58:32 ZERO
+01.11.2014 12:59:03 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 12:59:04 Switch on SAMPLE valve
+01.11.2014 12:59:11 ------------[ERROR] SAMPLE valve. Wrong state
+01.11.2014 12:59:11 Failure of a high level task. RunReset()
+01.11.2014 12:59:12 RESET
+01.11.2014 12:59:16 Protocol version REQUESTED = 0
+01.11.2014 12:59:16 Protocol version SET = 0, iteration = 0
+01.11.2014 12:59:17 RESET block start
+01.11.2014 12:59:27 START position command. Get confirmation on Set START position on RESET
+01.11.2014 12:59:28 Cell OFF
+01.11.2014 12:59:36 Test1
+01.11.2014 12:59:37 Test2
+01.11.2014 12:59:39 Test3
+01.11.2014 12:59:40 Test4
+01.11.2014 12:59:41 Test5
+01.11.2014 12:59:42 -------Calib CELL block start
+01.11.2014 12:59:43 Switch on ZERO valve.
+01.11.2014 12:59:43 DurationSampleZeroSwitch:  0,0 
+01.11.2014 12:59:44 DELAY zero
+01.11.2014 13:00:05 ZERO
+01.11.2014 13:00:36 Zero level: Parameters.zeroLevel.Value = -64,2913324457832
+01.11.2014 13:00:37 Cell ON
+01.11.2014 13:00:46 TEST CELL
+01.11.2014 13:01:07 TEST CELL level = 428,898278747182
+01.11.2014 13:01:07 CAL coefficient =  1,142 
+01.11.2014 13:01:08 Cell OFF
+01.11.2014 13:01:17 Switch on ZERO valve.
+01.11.2014 13:01:17 DurationSampleZeroSwitch:  0,0 
+01.11.2014 13:01:18 DELAY zero
+01.11.2014 13:01:40 ZERO
+01.11.2014 13:01:41 TERMINATION button is clicked.
