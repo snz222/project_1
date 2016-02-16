@@ -1,0 +1,3 @@
+[submodule "idk-firmware"]
+	path = idk-firmware
+	url = https://github.com/artvirewig/idk-firmware
