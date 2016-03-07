@@ -1,0 +1,161 @@
+1/3/2015 12:03:12 AM Buttons deactivated
+1/3/2015 12:03:15 AM MEAS block start
+1/3/2015 12:03:16 AM ZERO valve. Command to switch on
+1/3/2015 12:03:17 AM DELAY zero
+1/3/2015 12:05:19 AM ZERO
+1/3/2015 12:07:20 AM Zero level: Parameters.zeroLevel.Value = -2.95538184990573
+1/3/2015 12:07:20 AMU_PMT = 1177, I_PMT = 8106
+1/3/2015 12:07:20 AM Status Lamp Life = 0
+1/3/2015 12:07:21 AM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 12:07:23 AM DELAY elemental
+1/3/2015 12:13:25 AM SAMPLE elemental
+1/3/2015 12:19:27 AM Try to switch on SAMPLE TOTAL valve
+1/3/2015 12:19:28 AM DELAY total
+1/3/2015 12:25:30 AM SAMPLE total
+1/3/2015 12:25:30 AM Buttons activated
+1/3/2015 12:26:33 AM Ratio E/T = 1.000, Last Elemental = 0.021, First Total = 0.012 
+1/3/2015 2:31:06 AM Buttons deactivated
+1/3/2015 2:31:08 AM MEAS block start
+1/3/2015 2:31:10 AM ZERO valve. Command to switch on
+1/3/2015 2:31:11 AM DELAY zero
+1/3/2015 2:33:13 AM ZERO
+1/3/2015 2:35:14 AM Zero level: Parameters.zeroLevel.Value = -2.95803976521979
+1/3/2015 2:35:14 AMU_PMT = 1176, I_PMT = 8106
+1/3/2015 2:35:14 AM Status Lamp Life = 0
+1/3/2015 2:35:15 AM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 2:35:16 AM DELAY elemental
+1/3/2015 2:41:18 AM SAMPLE elemental
+1/3/2015 2:47:20 AM Try to switch on SAMPLE TOTAL valve
+1/3/2015 2:47:22 AM DELAY total
+1/3/2015 2:53:23 AM SAMPLE total
+1/3/2015 2:53:23 AM Buttons activated
+1/3/2015 2:54:26 AM Ratio E/T = 1.000, Last Elemental = 0.019, First Total = 0.011 
+1/3/2015 4:58:58 AM Buttons deactivated
+1/3/2015 4:59:01 AM MEAS block start
+1/3/2015 4:59:02 AM ZERO valve. Command to switch on
+1/3/2015 4:59:03 AM DELAY zero
+1/3/2015 5:01:05 AM ZERO
+1/3/2015 5:03:06 AM Zero level: Parameters.zeroLevel.Value = -2.95887232672849
+1/3/2015 5:03:06 AMU_PMT = 1176, I_PMT = 8107
+1/3/2015 5:03:06 AM Status Lamp Life = 0
+1/3/2015 5:03:07 AM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 5:03:09 AM DELAY elemental
+1/3/2015 5:09:11 AM SAMPLE elemental
+1/3/2015 5:15:13 AM Try to switch on SAMPLE TOTAL valve
+1/3/2015 5:15:14 AM DELAY total
+1/3/2015 5:21:17 AM SAMPLE total
+1/3/2015 5:21:17 AM Buttons activated
+1/3/2015 5:22:19 AM Ratio E/T = 1.000, Last Elemental = 0.022, First Total = 0.013 
+1/3/2015 7:26:52 AM Buttons deactivated
+1/3/2015 7:26:54 AM MEAS block start
+1/3/2015 7:26:55 AM ZERO valve. Command to switch on
+1/3/2015 7:26:57 AM DELAY zero
+1/3/2015 7:28:59 AM ZERO
+1/3/2015 7:30:59 AM Zero level: Parameters.zeroLevel.Value = -2.95223112191851
+1/3/2015 7:30:59 AMU_PMT = 1176, I_PMT = 8107
+1/3/2015 7:30:59 AM Status Lamp Life = 0
+1/3/2015 7:31:00 AM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 7:31:02 AM DELAY elemental
+1/3/2015 7:37:04 AM SAMPLE elemental
+1/3/2015 7:43:06 AM Try to switch on SAMPLE TOTAL valve
+1/3/2015 7:43:07 AM DELAY total
+1/3/2015 7:49:10 AM SAMPLE total
+1/3/2015 7:49:10 AM Buttons activated
+1/3/2015 7:50:12 AM Ratio E/T = 1.000, Last Elemental = 0.019, First Total = 0.010 
+1/3/2015 9:54:45 AM Buttons deactivated
+1/3/2015 9:54:47 AM MEAS block start
+1/3/2015 9:54:48 AM ZERO valve. Command to switch on
+1/3/2015 9:54:50 AM DELAY zero
+1/3/2015 9:56:52 AM ZERO
+1/3/2015 9:58:52 AM Zero level: Parameters.zeroLevel.Value = -2.96140408512746
+1/3/2015 9:58:52 AMU_PMT = 1176, I_PMT = 8107
+1/3/2015 9:58:52 AM Status Lamp Life = 0
+1/3/2015 9:58:54 AM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 9:58:55 AM DELAY elemental
+1/3/2015 10:04:57 AM SAMPLE elemental
+1/3/2015 10:11:00 AM Try to switch on SAMPLE TOTAL valve
+1/3/2015 10:11:01 AM DELAY total
+1/3/2015 10:17:03 AM SAMPLE total
+1/3/2015 10:17:03 AM Buttons activated
+1/3/2015 10:18:06 AM Ratio E/T = 1.000, Last Elemental = 0.023, First Total = 0.012 
+1/3/2015 12:22:38 PM Buttons deactivated
+1/3/2015 12:22:41 PM MEAS block start
+1/3/2015 12:22:42 PM ZERO valve. Command to switch on
+1/3/2015 12:22:43 PM DELAY zero
+1/3/2015 12:24:45 PM ZERO
+1/3/2015 12:26:46 PM Zero level: Parameters.zeroLevel.Value = -2.97859267536625
+1/3/2015 12:26:46 PMU_PMT = 1176, I_PMT = 8107
+1/3/2015 12:26:46 PM Status Lamp Life = 0
+1/3/2015 12:26:47 PM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 12:26:49 PM DELAY elemental
+1/3/2015 12:32:51 PM SAMPLE elemental
+1/3/2015 12:38:53 PM Try to switch on SAMPLE TOTAL valve
+1/3/2015 12:38:55 PM DELAY total
+1/3/2015 12:44:57 PM SAMPLE total
+1/3/2015 12:44:57 PM Buttons activated
+1/3/2015 12:46:00 PM Ratio E/T = 1.000, Last Elemental = 0.021, First Total = 0.011 
+1/3/2015 2:27:37 PM [SIGNAL] New X axis
+1/3/2015 2:50:32 PM Buttons deactivated
+1/3/2015 2:50:34 PM MEAS block start
+1/3/2015 2:50:36 PM ZERO valve. Command to switch on
+1/3/2015 2:50:37 PM DELAY zero
+1/3/2015 2:52:39 PM ZERO
+1/3/2015 2:54:40 PM Zero level: Parameters.zeroLevel.Value = -3.00216804947194
+1/3/2015 2:54:40 PMU_PMT = 1176, I_PMT = 8107
+1/3/2015 2:54:40 PM Status Lamp Life = 0
+1/3/2015 2:54:41 PM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 2:54:42 PM DELAY elemental
+1/3/2015 3:00:44 PM SAMPLE elemental
+1/3/2015 3:06:47 PM Try to switch on SAMPLE TOTAL valve
+1/3/2015 3:06:48 PM DELAY total
+1/3/2015 3:12:51 PM SAMPLE total
+1/3/2015 3:12:51 PM Buttons activated
+1/3/2015 3:13:53 PM Ratio E/T = 1.000, Last Elemental = 0.022, First Total = 0.010 
+1/3/2015 5:18:26 PM Buttons deactivated
+1/3/2015 5:18:29 PM MEAS block start
+1/3/2015 5:18:30 PM ZERO valve. Command to switch on
+1/3/2015 5:18:31 PM DELAY zero
+1/3/2015 5:20:33 PM ZERO
+1/3/2015 5:22:34 PM Zero level: Parameters.zeroLevel.Value = -3.02342132372125
+1/3/2015 5:22:34 PMU_PMT = 1176, I_PMT = 8107
+1/3/2015 5:22:34 PM Status Lamp Life = 0
+1/3/2015 5:22:35 PM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 5:22:36 PM DELAY elemental
+1/3/2015 5:28:39 PM SAMPLE elemental
+1/3/2015 5:34:41 PM Try to switch on SAMPLE TOTAL valve
+1/3/2015 5:34:42 PM DELAY total
+1/3/2015 5:40:44 PM SAMPLE total
+1/3/2015 5:40:44 PM Buttons activated
+1/3/2015 5:41:47 PM Ratio E/T = 1.000, Last Elemental = 0.018, First Total = 0.013 
+1/3/2015 7:46:18 PM Buttons deactivated
+1/3/2015 7:46:21 PM MEAS block start
+1/3/2015 7:46:22 PM ZERO valve. Command to switch on
+1/3/2015 7:46:23 PM DELAY zero
+1/3/2015 7:48:25 PM ZERO
+1/3/2015 7:50:26 PM Zero level: Parameters.zeroLevel.Value = -3.03845347782829
+1/3/2015 7:50:26 PMU_PMT = 1178, I_PMT = 8108
+1/3/2015 7:50:26 PM Status Lamp Life = 0
+1/3/2015 7:50:27 PM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 7:50:29 PM DELAY elemental
+1/3/2015 7:56:31 PM SAMPLE elemental
+1/3/2015 8:02:33 PM Try to switch on SAMPLE TOTAL valve
+1/3/2015 8:02:34 PM DELAY total
+1/3/2015 8:08:37 PM SAMPLE total
+1/3/2015 8:08:37 PM Buttons activated
+1/3/2015 8:09:39 PM Ratio E/T = 1.000, Last Elemental = 0.024, First Total = 0.014 
+1/3/2015 10:14:11 PM Buttons deactivated
+1/3/2015 10:14:13 PM MEAS block start
+1/3/2015 10:14:14 PM ZERO valve. Command to switch on
+1/3/2015 10:14:15 PM DELAY zero
+1/3/2015 10:16:17 PM ZERO
+1/3/2015 10:18:18 PM Zero level: Parameters.zeroLevel.Value = -3.03998517440624
+1/3/2015 10:18:18 PMU_PMT = 1178, I_PMT = 8108
+1/3/2015 10:18:18 PM Status Lamp Life = 0
+1/3/2015 10:18:19 PM Try to switch on SAMPLE ELEMENTAL valve
+1/3/2015 10:18:21 PM DELAY elemental
+1/3/2015 10:24:23 PM SAMPLE elemental
+1/3/2015 10:30:25 PM Try to switch on SAMPLE TOTAL valve
+1/3/2015 10:30:26 PM DELAY total
+1/3/2015 10:36:29 PM SAMPLE total
+1/3/2015 10:36:29 PM Buttons activated
+1/3/2015 10:37:31 PM Ratio E/T = 1.000, Last Elemental = 0.025, First Total = 0.016 
