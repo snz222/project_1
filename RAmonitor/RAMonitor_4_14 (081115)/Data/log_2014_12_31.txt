@@ -1,0 +1,198 @@
+12/31/2014 12:03:46 AM Try to switch on SAMPLE TOTAL valve
+12/31/2014 12:03:48 AM DELAY total
+12/31/2014 12:09:50 AM SAMPLE total
+12/31/2014 12:09:50 AM Buttons activated
+12/31/2014 12:10:52 AM Ratio E/T = 1.000, Last Elemental = 0.195, First Total = 0.138 
+12/31/2014 2:15:17 AM Buttons deactivated
+12/31/2014 2:15:20 AM MEAS block start
+12/31/2014 2:15:21 AM ZERO valve. Command to switch on
+12/31/2014 2:15:22 AM DELAY zero
+12/31/2014 2:17:24 AM ZERO
+12/31/2014 2:19:25 AM Zero level: Parameters.zeroLevel.Value = -2.6253086776871
+12/31/2014 2:19:25 AMU_PMT = 1191, I_PMT = 8101
+12/31/2014 2:19:25 AM Status Lamp Life = 0
+12/31/2014 2:19:26 AM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 2:19:27 AM DELAY elemental
+12/31/2014 2:25:29 AM SAMPLE elemental
+12/31/2014 2:31:31 AM Try to switch on SAMPLE TOTAL valve
+12/31/2014 2:31:33 AM DELAY total
+12/31/2014 2:37:35 AM SAMPLE total
+12/31/2014 2:37:35 AM Buttons activated
+12/31/2014 2:38:38 AM Ratio E/T = 1.000, Last Elemental = 0.140, First Total = 0.086 
+12/31/2014 4:43:10 AM Buttons deactivated
+12/31/2014 4:43:12 AM MEAS block start
+12/31/2014 4:43:13 AM ZERO valve. Command to switch on
+12/31/2014 4:43:15 AM DELAY zero
+12/31/2014 4:45:17 AM ZERO
+12/31/2014 4:47:17 AM Zero level: Parameters.zeroLevel.Value = -2.66199532570641
+12/31/2014 4:47:17 AMU_PMT = 1190, I_PMT = 8101
+12/31/2014 4:47:17 AM Status Lamp Life = 0
+12/31/2014 4:47:18 AM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 4:47:20 AM DELAY elemental
+12/31/2014 4:53:22 AM SAMPLE elemental
+12/31/2014 4:59:24 AM Try to switch on SAMPLE TOTAL valve
+12/31/2014 4:59:25 AM DELAY total
+12/31/2014 5:05:28 AM SAMPLE total
+12/31/2014 5:05:28 AM Buttons activated
+12/31/2014 5:06:30 AM Ratio E/T = 1.000, Last Elemental = 0.097, First Total = 0.063 
+12/31/2014 7:11:02 AM Buttons deactivated
+12/31/2014 7:11:04 AM MEAS block start
+12/31/2014 7:11:06 AM ZERO valve. Command to switch on
+12/31/2014 7:11:07 AM DELAY zero
+12/31/2014 7:13:09 AM ZERO
+12/31/2014 7:15:10 AM Zero level: Parameters.zeroLevel.Value = -2.70407634056619
+12/31/2014 7:15:10 AMU_PMT = 1190, I_PMT = 8101
+12/31/2014 7:15:10 AM Status Lamp Life = 0
+12/31/2014 7:15:11 AM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 7:15:12 AM DELAY elemental
+12/31/2014 7:21:14 AM SAMPLE elemental
+12/31/2014 7:27:17 AM Try to switch on SAMPLE TOTAL valve
+12/31/2014 7:27:18 AM DELAY total
+12/31/2014 7:33:20 AM SAMPLE total
+12/31/2014 7:33:20 AM Buttons activated
+12/31/2014 7:34:23 AM Ratio E/T = 1.000, Last Elemental = 0.079, First Total = 0.044 
+12/31/2014 9:38:55 AM Buttons deactivated
+12/31/2014 9:38:57 AM MEAS block start
+12/31/2014 9:38:58 AM ZERO valve. Command to switch on
+12/31/2014 9:39:00 AM DELAY zero
+12/31/2014 9:41:02 AM ZERO
+12/31/2014 9:43:02 AM Zero level: Parameters.zeroLevel.Value = -2.74195354623735
+12/31/2014 9:43:02 AMU_PMT = 1190, I_PMT = 8101
+12/31/2014 9:43:02 AM Status Lamp Life = 0
+12/31/2014 9:43:04 AM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 9:43:05 AM DELAY elemental
+12/31/2014 9:49:07 AM SAMPLE elemental
+12/31/2014 9:55:09 AM Try to switch on SAMPLE TOTAL valve
+12/31/2014 9:55:11 AM DELAY total
+12/31/2014 10:01:13 AM SAMPLE total
+12/31/2014 10:01:13 AM Buttons activated
+12/31/2014 10:02:15 AM Ratio E/T = 1.000, Last Elemental = 0.067, First Total = 0.040 
+12/31/2014 11:16:05 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:06 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:07 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:08 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:10 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:11 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:12 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:13 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:14 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:16 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:17 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:18 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:19 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:21 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:22 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:23 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:24 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:25 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:27 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:28 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:29 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:30 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:34 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:35 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:36 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:37 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:39 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:40 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:41 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:42 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:43 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:45 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:46 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:47 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:48 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:50 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:51 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:52 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:53 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:54 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:56 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:57 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:58 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:16:59 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:17:00 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:17:02 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:17:03 AM ------[WARNING] CONVERTER problem.
+12/31/2014 11:17:04 AM ------[WARNING] CONVERTER problem.
+12/31/2014 12:06:48 PM Buttons deactivated
+12/31/2014 12:06:50 PM MEAS block start
+12/31/2014 12:06:51 PM ZERO valve. Command to switch on
+12/31/2014 12:06:53 PM DELAY zero
+12/31/2014 12:08:55 PM ZERO
+12/31/2014 12:10:55 PM Zero level: Parameters.zeroLevel.Value = -2.76936411903468
+12/31/2014 12:10:55 PMU_PMT = 1190, I_PMT = 8101
+12/31/2014 12:10:55 PM Status Lamp Life = 0
+12/31/2014 12:10:56 PM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 12:10:58 PM DELAY elemental
+12/31/2014 12:17:00 PM SAMPLE elemental
+12/31/2014 12:23:02 PM Try to switch on SAMPLE TOTAL valve
+12/31/2014 12:23:04 PM DELAY total
+12/31/2014 12:29:06 PM SAMPLE total
+12/31/2014 12:29:06 PM Buttons activated
+12/31/2014 12:30:09 PM Ratio E/T = 1.000, Last Elemental = 0.065, First Total = 0.018 
+12/31/2014 2:27:35 PM [SIGNAL] New X axis
+12/31/2014 2:34:41 PM Buttons deactivated
+12/31/2014 2:34:43 PM MEAS block start
+12/31/2014 2:34:45 PM ZERO valve. Command to switch on
+12/31/2014 2:34:46 PM DELAY zero
+12/31/2014 2:36:48 PM ZERO
+12/31/2014 2:38:49 PM Zero level: Parameters.zeroLevel.Value = -2.78840996399149
+12/31/2014 2:38:49 PMU_PMT = 1188, I_PMT = 8101
+12/31/2014 2:38:49 PM Status Lamp Life = 0
+12/31/2014 2:38:50 PM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 2:38:51 PM DELAY elemental
+12/31/2014 2:44:53 PM SAMPLE elemental
+12/31/2014 2:50:55 PM Try to switch on SAMPLE TOTAL valve
+12/31/2014 2:50:57 PM DELAY total
+12/31/2014 2:56:59 PM SAMPLE total
+12/31/2014 2:56:59 PM Buttons activated
+12/31/2014 2:58:02 PM Ratio E/T = 1.000, Last Elemental = 0.043, First Total = 0.011 
+12/31/2014 5:02:35 PM Buttons deactivated
+12/31/2014 5:02:37 PM MEAS block start
+12/31/2014 5:02:38 PM ZERO valve. Command to switch on
+12/31/2014 5:02:40 PM DELAY zero
+12/31/2014 5:04:42 PM ZERO
+12/31/2014 5:06:42 PM Zero level: Parameters.zeroLevel.Value = -2.80475335833576
+12/31/2014 5:06:42 PMU_PMT = 1187, I_PMT = 8101
+12/31/2014 5:06:42 PM Status Lamp Life = 0
+12/31/2014 5:06:43 PM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 5:06:45 PM DELAY elemental
+12/31/2014 5:12:47 PM SAMPLE elemental
+12/31/2014 5:18:49 PM Try to switch on SAMPLE TOTAL valve
+12/31/2014 5:18:50 PM DELAY total
+12/31/2014 5:24:53 PM SAMPLE total
+12/31/2014 5:24:53 PM Buttons activated
+12/31/2014 5:25:55 PM Ratio E/T = 1.000, Last Elemental = 0.040, First Total = 0.014 
+12/31/2014 7:30:27 PM Buttons deactivated
+12/31/2014 7:30:30 PM MEAS block start
+12/31/2014 7:30:31 PM ZERO valve. Command to switch on
+12/31/2014 7:30:32 PM DELAY zero
+12/31/2014 7:32:34 PM ZERO
+12/31/2014 7:34:35 PM Zero level: Parameters.zeroLevel.Value = -2.78635095364587
+12/31/2014 7:34:35 PMU_PMT = 1186, I_PMT = 8101
+12/31/2014 7:34:35 PM Status Lamp Life = 0
+12/31/2014 7:34:36 PM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 7:34:37 PM DELAY elemental
+12/31/2014 7:40:40 PM SAMPLE elemental
+12/31/2014 7:46:42 PM Try to switch on SAMPLE TOTAL valve
+12/31/2014 7:46:43 PM DELAY total
+12/31/2014 7:52:45 PM SAMPLE total
+12/31/2014 7:52:45 PM Buttons activated
+12/31/2014 7:53:48 PM Ratio E/T = 1.000, Last Elemental = 0.031, First Total = 0.005 
+12/31/2014 9:58:22 PM Buttons deactivated
+12/31/2014 9:58:24 PM MEAS block start
+12/31/2014 9:58:25 PM ZERO valve. Command to switch on
+12/31/2014 9:58:27 PM DELAY zero
+12/31/2014 10:00:29 PM ZERO
+12/31/2014 10:02:29 PM Zero level: Parameters.zeroLevel.Value = -2.78497828007675
+12/31/2014 10:02:29 PMU_PMT = 1185, I_PMT = 8101
+12/31/2014 10:02:29 PM Status Lamp Life = 0
+12/31/2014 10:02:30 PM Try to switch on SAMPLE ELEMENTAL valve
+12/31/2014 10:02:32 PM DELAY elemental
+12/31/2014 10:08:34 PM SAMPLE elemental
+12/31/2014 10:14:36 PM Try to switch on SAMPLE TOTAL valve
+12/31/2014 10:14:37 PM DELAY total
+12/31/2014 10:20:40 PM SAMPLE total
+12/31/2014 10:20:40 PM Buttons activated
+12/31/2014 10:21:42 PM Ratio E/T = 1.000, Last Elemental = 0.037, First Total = 0.014 
