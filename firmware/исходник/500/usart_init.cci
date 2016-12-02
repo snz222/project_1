@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:488100CB
+NODE:F LEVEL:0 LINE:2 "usartc0_init(void)"
+NODE:F LEVEL:0 LINE:34 "usartc0_rx_isr(void)"
+NODE:M LEVEL:0 LINE:928 "_ALTERNATE_GETCHAR_"
+NODE:F LEVEL:0 LINE:931 "getchar(void)"
+NODE:M LEVEL:0 LINE:949 "_ALTERNATE_PUTCHAR_"
+NODE:F LEVEL:0 LINE:952 "putchar(unsigned char c)"
+NODE:F LEVEL:0 LINE:960 "usartd1_init(void)"
+NODE:F LEVEL:0 LINE:996 "putchar_usartd1(unsigned char c)"
+NODE:F LEVEL:0 LINE:1005 "monitor(void)"

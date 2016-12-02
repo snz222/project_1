@@ -1,0 +1,361 @@
+//адреса наших микросхем
+#define PCA9557D_U1 (0x30>>1)
+#define PCA9557D_U2 (0x32>>1)
+#define PCA9557D_U3 (0x34>>1)
+//необходимые библиотеки
+#include <io.h>
+#include <stdio.h>
+
+char error_buf=0;
+//#include <twix.h>
+//заголовок подключени€ моего файла
+//#include "PCA9557D.c"
+//настройка TWI прописываем ниже
+/*
+// TWIE initialization
+// structure that holds information used by the TWIE Master
+// for performing a TWI bus transaction
+TWI_MASTER_INFO_t twie_master;
+
+
+void twie_init(void)
+{
+twi_init(&TWIE,false,false);
+// TWIE Master initialization
+// Master interrupt: Low Level
+// System Clock frequency: 32000000 Hz
+// SCL Rate: 100000 bps
+// Real SCL Rate: 100000 bps, Error: 0,0 %
+twi_master_init(&twie_master,&TWIE,TWI_MASTER_INTLVL_LO_gc,
+    TWI_BAUD_REG(32000000,100000));
+// TWIE Slave is disabled
+TWIE.SLAVE.CTRLA=0;
+}
+// TWIE Master interrupt service routine
+#pragma optsize- // optimize for speed
+interrupt [TWIE_TWIM_vect] void twie_master_isr(void)
+{
+twi_master_int_handler(&twie_master);
+}
+#pragma optsize_default
+
+//настройка TWI **************************************************
+*/
+
+
+// структура буфера PCA9557D
+
+       //структура обращени€ 
+       //после отправки адреса 
+       //обращаемс€ к контрольному регистру, 
+       //указываем ему  одну из 4 операций
+       //чтение входов    (чтение порта)    00
+       //установка выходов (запись в порт)   01
+       //инверси€        (если 1 то инверси€)  10
+       //конфигураци€   (если вход то устанавливаем бит)      11
+       
+       
+       ////////////////////////////////U1////////////////////////////////////
+        struct
+            {
+            unsigned char control;
+            unsigned char input;
+            } U1in;   
+        
+        struct
+            {
+            unsigned char control;
+            unsigned char output;
+            } U1out; 
+        
+         
+        struct
+            {
+            unsigned char control;
+            unsigned char io;
+            } U1io; 
+         
+         struct
+            {
+            unsigned char control;
+            unsigned char data;
+            } U1ne_invert;
+         ////////////////////////////////U1////////////////////////////////////              
+         
+         ////////////////////////////////U2////////////////////////////////////
+        struct
+            {
+            unsigned char control;
+            unsigned char input;
+            } U2in;   
+        
+        struct
+            {
+            unsigned char control;
+            unsigned char output;
+            } U2out; 
+        
+         
+        struct
+            {
+            unsigned char control;
+            unsigned char io;
+            } U2io; 
+         
+         struct
+            {
+            unsigned char control;
+            unsigned char data;
+            } U2ne_invert;
+         ////////////////////////////////U2////////////////////////////////////   
+         
+          ////////////////////////////////U3////////////////////////////////////
+        struct
+            {
+            unsigned char control;
+            unsigned char input;
+            } U3in;   
+        
+        struct
+            {
+            unsigned char control;
+            unsigned char output;
+            } U3out; 
+        
+         
+        struct
+            {
+            unsigned char control;
+            unsigned char io;
+            } U3io; 
+         
+         struct
+            {
+            unsigned char control;
+            unsigned char data;
+            } U3ne_invert;
+         ////////////////////////////////U3////////////////////////////////////     
+
+
+///////////////////111111111111111111111111111111111111111111111111//////////////////////////////////
+
+
+//из буфера U1 мы читаем биты 1,4,5
+//пишим биты 0,2,3,6,7
+//настройка конфигурации =0x32
+
+//инициализаци€ буфера U1
+void init_buferU1 (void)
+{
+//запрещаем инверсию
+
+U1ne_invert.control=0x02;
+U1ne_invert.data=0x00;
+
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U1,
+    (unsigned char *)&U1ne_invert,2,
+    0, 0);
+
+//настройка входов выходов            
+U1io.control=0x03;
+U1io.io=0x32;   //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U1,
+    (unsigned char *)&U1io,2,
+    0, 0);             
+}
+
+/*
+//проверка настроек
+void buferU1_error (void)
+{
+//запрещаем инверсию
+char read_data;
+
+U1ne_invert.control=0x02;
+U1ne_invert.data=0x00;
+//регистр настроек сохран€ю сюда
+
+
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U1,
+    (unsigned char *)&U1ne_invert,1,
+    (unsigned char *)&read_data,1);
+
+if (read_data!=U1ne_invert.data) error_buf=1;
+
+
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U2,
+    (unsigned char *)&U1ne_invert,1,
+    (unsigned char *)&read_data,1);
+
+if (read_data!=U1ne_invert.data) error_buf=2;
+
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U3,
+    (unsigned char *)&U1ne_invert,1,
+    (unsigned char *)&read_data,1);
+
+if (read_data!=U1ne_invert.data) error_buf=3;
+
+//настройка входов выходов пока что не тестирую       
+
+
+
+}
+*/
+
+
+//опрос буфера U1
+void buferU1_opros(void)
+{
+U1in.control=0x00;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U1,
+    (unsigned char *)&U1in.control,1,
+    (unsigned char *)&U1in.input, 1); 
+//ответ хранитьс€ в U1in.input
+}
+
+//установка выходов буфера U1
+//значение должно хранитьс€ в U1out.output
+void buferU1_set(void)
+{
+U1out.control=0x01;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U1,
+    (unsigned char *)&U1out,2,
+    0, 0);
+}
+
+//////////////////////111111111111111111111111111111111111111111111111//////////////////////////////////
+
+
+///////////////////2222222222222222222222222222222222222222222222222222//////////////////////////////////
+
+
+//из буфера U2 мы читаем биты 7,3,4
+//пишим биты 0,1,2,5,6
+//настройка конфигурации =0x98
+
+//инициализаци€ буфера U2
+void init_buferU2 (void)
+{
+//запрещаем инверсию
+U2ne_invert.control=0x02;
+U2ne_invert.data=0x00;
+
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U2,
+    (unsigned char *)&U2ne_invert,2,
+    0, 0);
+
+//настройка входов выходов            
+U2io.control=0x03;
+U2io.io=0x98;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U2,
+    (unsigned char *)&U2io,2,
+    0, 0);             
+}
+
+//опрос буфера U2
+void buferU2_opros(void)
+{
+U2in.control=0x00;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U2,
+    (unsigned char *)&U2in.control,1,
+    (unsigned char *)&U2in.input, 1); 
+//ответ хранитьс€ в U2in.input
+}
+
+
+
+//установка выходов буфера U2
+//значение должно хранитьс€ в U2out.output
+void buferU2_set(void)
+{
+U2out.control=0x01;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U2,
+    (unsigned char *)&U2out,2,
+    0, 0);
+}
+
+///////////////////2222222222222222222222222222222222222222222222222222//////////////////////////////
+
+
+
+
+
+///////////////////333333333333333333333333333333333333333333333333333//////////////////////////////////
+
+
+//из буфера U3 мы читаем биты 6
+//пишим биты 0,1,2,3,4,5,7
+//настройка конфигурации =0x40
+
+//инициализаци€ буфера U3
+void init_buferU3 (void)
+{
+//запрещаем инверсию
+U3ne_invert.control=0x02;
+U3ne_invert.data=0x00;
+
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U3,
+    (unsigned char *)&U3ne_invert,2,
+    0, 0);
+
+//настройка входов выходов            
+U3io.control=0x03;
+U3io.io=0x40;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U3,
+    (unsigned char *)&U3io,2,
+    0, 0);             
+}
+
+//опрос буфера U3
+void buferU3_opros(void)
+{
+U3in.control=0x00;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U3,
+    (unsigned char *)&U3in.control,1,
+    (unsigned char *)&U3in.input, 1); 
+//ответ хранитьс€ в U3in.input
+}
+
+
+
+//установка выходов буфера U3
+//значение должно хранитьс€ в U2out.output
+void buferU3_set(void)
+{
+U3out.control=0x01;
+twi_master_trans(
+     &twie_master,
+     PCA9557D_U3,
+    (unsigned char *)&U3out,2,
+    0, 0);
+}
+
+///////////////////333333333333333333333333333333333333333333333333333333//////////////////////////////
