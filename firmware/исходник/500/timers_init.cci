@@ -1,7 +1,0 @@
-VERSION:3 SOURCE_TIMESTAMP:488100CB
-NODE:F LEVEL:0 LINE:1 "tc0_disable(struct TC0_t * ptc)"
-NODE:F LEVEL:0 LINE:9 "tc1_disable(struct TC1_t * ptc)"
-NODE:F LEVEL:0 LINE:19 "tcc0_init(void)"
-NODE:F LEVEL:0 LINE:120 "tcc1_init(void)"
-NODE:F LEVEL:0 LINE:181 "tcd0_init(void)"
-NODE:F LEVEL:0 LINE:245 "tcf0_init(void)"
